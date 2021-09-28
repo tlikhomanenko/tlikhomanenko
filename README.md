@@ -9,6 +9,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Industry and Research Experience </summary>
   
+* [Apple](https://machinelearning.apple.com/), *Research Scientist* (Sep 2021 - present)  
 * [Facebook AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021)  
   *Speech recognition and natural language processing for speech*  
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
@@ -53,6 +54,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Public Talks </summary>
 
+* [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher Shool of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
 * [Pseudo-labeling for speech recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
 * [Machine learning in Science and Industry](https://arogozhnikov.github.io/2017/04/20/machine-learning-in-science-and-industry.html), Heidelberg University (2017)
