@@ -54,7 +54,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Public Talks </summary>
 
-* [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher Shool of Economics (2021)
+* [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
 * [Pseudo-labeling for speech recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
 * [Machine learning in Science and Industry](https://arogozhnikov.github.io/2017/04/20/machine-learning-in-science-and-industry.html), Heidelberg University (2017)
@@ -69,7 +69,7 @@ Gravitating to core ML and video processing.
 
 #### Core Machine Learning
 
-- Likhomanenko, T., Xu, Q., Collobert, R., Synnaeve, G. and Rogozhnikov, A., 2021. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. arXiv preprint arXiv:2106.03143.
+- Likhomanenko, T., Xu, Q., Collobert, R., Synnaeve, G. and Rogozhnikov, A., 2021. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. NeurIPS 2021 (accepted poster).
 - Rogozhnikov, A., Likhomanenko, T., 2017. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109.
 
 #### Automatic Speech Recognition
@@ -77,7 +77,8 @@ Gravitating to core ML and video processing.
 ##### 2021
 
 --------------------
-- Manohar, V., Likhomanenko, T., Xu, Q., Hsu, W.N., Collobert, R., Saraf, Y., Zweig, G. and Mohamed, A., 2021. **Kaizen: Continuously improving teacher using Exponential Moving Average for semi-supervised speech recognition**. arXiv preprint arXiv:2106.07759.  
+- Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Word Order Does Not Matter For Speech Recognition**. arXiv preprint arXiv:2110.05994.  
+- Manohar, V., Likhomanenko, T., Xu, Q., Hsu, W.N., Collobert, R., Saraf, Y., Zweig, G. and Mohamed, A., 2021. **Kaizen: Continuously improving teacher using Exponential Moving Average for semi-supervised speech recognition**. ASRU 2021 (accepted).
 - Likhomanenko, T., Xu, Q., Kahn, J., Synnaeve, G. and Collobert, R. **slimIPL: Language-model-free iterative pseudo-labeling**. Interspeech 2021.  
 [video](https://disk.yandex.ru/i/Z_fs6Qohup_jAw), [poster](https://disk.yandex.ru/i/DfIS20btXTHu4g), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/slimIPL)
 -  Likhomanenko, T., Xu, Q., Pratap, V., Tomasello, P., Kahn, J., Avidov, G., Collobert, R. and Synnaeve, G. **Rethinking evaluation in asr: Are our models robust enough?** Interspeech 2021.  
@@ -110,13 +111,13 @@ Gravitating to core ML and video processing.
 
 - Denis Derkach, Derkach, D., Hushchyn, M., Likhomanenko, T., Rogozhnikov, A., Kazeev, N., Chekalina, V., Neychev, R., Kirillov, S., Ratnikov, F. and LHCb collaboration. **Machine-Learning-based global particle-identifiritcation algohms at the LHCb experiment**. Journal of Physics: Conference Series. 2018. Vol. 1085. No. 4. P. 1-5.  
 ACAT 2017, [poster](https://indico.cern.ch/event/567550/contributions/2629676/attachments/1511360/2357050/pid_poster_v3.pdf)
-- Likhomanenko, T., Derkach, D., Rogozhnikov, A. **Inclusive Flavour Tagging Algorithm. Journal of Physics**: Conference Series, 2016.  
+- Likhomanenko, T., Derkach, D., Rogozhnikov, A. **Inclusive Flavour Tagging Algorithm.** Journal of Physics: Conference Series, 2016.  
 ACAT 2016, [poster](https://disk.yandex.ru/i/aOlSTswbbwlq5Q), [code](https://github.com/tlikhomanenko/tagging_LHCb)
 - LHCb collaboration (2016). Search for decays of neutral beauty mesons into four muons, JHEP 03 (2017) 001. 
 - Likhomanenko, T., Ilten, P., Khairullin, E., Rogozhnikov, A., Ustyuzhanin, A., Williams, M. **LHCb Topological Trigger Reoptimization**. Journal of Physics: Conference Series, 2015.  
 CHEP 2015, [presentation](https://indico.cern.ch/event/304944/contributions/1672458/attachments/578652/796814/hlt.pdf), [code](https://github.com/tlikhomanenko/LHCb-topo-trigger)
 - CMS collaboration, LHCb collaboration. **Observation of the rare Bs0→ μ+ μ− decay from the combined analysis of CMS and LHCb data**. Nature, 2015.
-- Likhomanenko, T., Rogozhnikov, A., Baranov, A., Khairullin, E., & Ustyuzhanin, A. **Reproducible Experiment Platform**. In Journal of Physics: Conference Series (Vol. 664, No. 5, p. 052022). IOP Publishing.  
+- Likhomanenko, T., Rogozhnikov, A., Baranov, A., Khairullin, E., & Ustyuzhanin, A. **Reproducible Experiment Platform**. Journal of Physics: Conference Series (Vol. 664, No. 5, p. 052022).
 CHEP 2015, [poster](https://indico.cern.ch/event/304944/contributions/1672393/attachments/578602/796755/rep-qr.pdf)
 - LHCb collaboration. **Search for the lepton flavour violating decay τ−→ μ− μ+ μ−**. Journal of High Energy Physics, 2015. 
 - Likhomanenko, T., Rogozhnikov, A., Baranov, A., Khairullin, E., Ustyuzhanin, A. **Improving reproducibility of data science experiments**, ICML 2015 AutoML Workshop, 2015  
@@ -158,8 +159,8 @@ oral talk, AMEE-2012 and Lomonosov-2012
 
 * NeurIPS 2021
 * Interspeech 2020, 2021
-* ICASSP 2021
-* ICLR 2021
+* ICASSP 2021, 2022
+* ICLR 2021, 2022
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
