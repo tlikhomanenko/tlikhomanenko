@@ -77,7 +77,8 @@ Gravitating to core ML and video processing.
 ##### 2021
 
 --------------------
-- Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Word Order Does Not Matter For Speech Recognition**. arXiv preprint arXiv:2110.05994.  
+- Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. arXiv preprint arXiv:2111.00161. (under review ICASSP 2022)  
+- Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Word Order Does Not Matter For Speech Recognition**. arXiv preprint arXiv:2110.05994. (under review ICASSP 2022)  
 - Manohar, V., Likhomanenko, T., Xu, Q., Hsu, W.N., Collobert, R., Saraf, Y., Zweig, G. and Mohamed, A., 2021. **Kaizen: Continuously improving teacher using Exponential Moving Average for semi-supervised speech recognition**. ASRU 2021 (accepted).
 - Likhomanenko, T., Xu, Q., Kahn, J., Synnaeve, G. and Collobert, R. **slimIPL: Language-model-free iterative pseudo-labeling**. Interspeech 2021.  
 [video](https://disk.yandex.ru/i/Z_fs6Qohup_jAw), [poster](https://disk.yandex.ru/i/DfIS20btXTHu4g), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/slimIPL)
