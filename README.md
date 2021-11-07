@@ -110,16 +110,20 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning in High Energy Physics
 
-- Denis Derkach, Derkach, D., Hushchyn, M., Likhomanenko, T., Rogozhnikov, A., Kazeev, N., Chekalina, V., Neychev, R., Kirillov, S., Ratnikov, F. and LHCb collaboration. **Machine-Learning-based global particle-identifiritcation algohms at the LHCb experiment**. Journal of Physics: Conference Series. 2018. Vol. 1085. No. 4. P. 1-5.  
-ACAT 2017, [poster](https://indico.cern.ch/event/567550/contributions/2629676/attachments/1511360/2357050/pid_poster_v3.pdf)
+- Derkach, D., Hushchyn, M., Likhomanenko, T., Rogozhnikov, A., Kazeev, N., Chekalina, V., Neychev, R., Kirillov, S., Ratnikov, F. and LHCb collaboration. **Machine-Learning-based global particle-identifiritcation algohms at the LHCb experiment**. Journal of Physics: Conference Series. 2018. Vol. 1085. No. 4. P. 1-5. 
+  
+  _ACAT 2017_, [poster](https://indico.cern.ch/event/567550/contributions/2629676/attachments/1511360/2357050/pid_poster_v3.pdf)
 - Likhomanenko, T., Derkach, D., Rogozhnikov, A. **Inclusive Flavour Tagging Algorithm.** Journal of Physics: Conference Series, 2016.  
-ACAT 2016, [poster](https://disk.yandex.ru/i/aOlSTswbbwlq5Q), [code](https://github.com/tlikhomanenko/tagging_LHCb)
+  
+  _ACAT 2016_, [poster](https://disk.yandex.ru/i/aOlSTswbbwlq5Q), [code](https://github.com/tlikhomanenko/tagging_LHCb)
 - LHCb collaboration (2016). Search for decays of neutral beauty mesons into four muons, JHEP 03 (2017) 001. 
-- Likhomanenko, T., Ilten, P., Khairullin, E., Rogozhnikov, A., Ustyuzhanin, A., Williams, M. **LHCb Topological Trigger Reoptimization**. Journal of Physics: Conference Series, 2015.  
-CHEP 2015, [presentation](https://indico.cern.ch/event/304944/contributions/1672458/attachments/578652/796814/hlt.pdf), [code](https://github.com/tlikhomanenko/LHCb-topo-trigger)
+- Likhomanenko, T., Ilten, P., Khairullin, E., Rogozhnikov, A., Ustyuzhanin, A., Williams, M. **LHCb Topological Trigger Reoptimization**. Journal of Physics: Conference Series, 2015.
+  
+  _CHEP 2015_, [presentation](https://indico.cern.ch/event/304944/contributions/1672458/attachments/578652/796814/hlt.pdf), [code](https://github.com/tlikhomanenko/LHCb-topo-trigger)
 - CMS collaboration, LHCb collaboration. **Observation of the rare Bs0→ μ+ μ− decay from the combined analysis of CMS and LHCb data**. Nature, 2015.
 - Likhomanenko, T., Rogozhnikov, A., Baranov, A., Khairullin, E., & Ustyuzhanin, A. **Reproducible Experiment Platform**. Journal of Physics: Conference Series (Vol. 664, No. 5, p. 052022).
-CHEP 2015, [poster](https://indico.cern.ch/event/304944/contributions/1672393/attachments/578602/796755/rep-qr.pdf)
+
+  _CHEP 2015_, [poster](https://indico.cern.ch/event/304944/contributions/1672393/attachments/578602/796755/rep-qr.pdf)
 - LHCb collaboration. **Search for the lepton flavour violating decay τ−→ μ− μ+ μ−**. Journal of High Energy Physics, 2015. 
 - Likhomanenko, T., Rogozhnikov, A., Baranov, A., Khairullin, E., Ustyuzhanin, A. **Improving reproducibility of data science experiments**, ICML 2015 AutoML Workshop, 2015  
 [poster spotlight](https://indico.ijclab.in2p3.fr/event/2914/contributions/6476/subcontributions/168/attachments/6032/7157/Likhomanenko_Improving-reproducibility_1.pdf)
@@ -128,13 +132,13 @@ CHEP 2015, [poster](https://indico.cern.ch/event/304944/contributions/1672393/at
 
 - Moiseev, E.I., Likhomanenko, T.N. **Eigenfunctions of the Gellerstedt problem with an inclined-type change line**. Integral Transforms and Special Functions, 2017, pp. 1–8.
 - Moiseev E. I., Likhomanenko T. N. **On the basis property of a two-part trigonometric series**. Doklady Mathematics, 2016, Vol. 94, No. 1, pp. 1–4.  
-oral talk, International scientific conference Actual Problems in Theory of Partial Differential Equations, dedicated to the centenary of Andrey V. Bitsadze, 2016
+_oral talk, International scientific conference Actual Problems in Theory of Partial Differential Equations, dedicated to the centenary of Andrey V. Bitsadze, 2016_
 - Moiseev, E.I., Likhomanenko, T.N. **Eigenfunctions of the Tricomi problem with an inclined type change line**. Differential Equations, 2016, Vol. 52, No. 10, pp 1323– 1330.  
-oral talk, International scientific conference Actual Problems in Theory of Partial Differential Equations, dedicated to the centenary of Andrey V. Bitsadze, 2016
+_oral talk, International scientific conference Actual Problems in Theory of Partial Differential Equations, dedicated to the centenary of Andrey V. Bitsadze, 2016_
 - Moiseev, E.I., Likhomanenko, T.N. **On the basis property of a trigonometric system arising in the Frankl problem**. Differential Equations, 2013, Vol. 49, No. 3, pp. 325–331.  
-oral talk, AMEE-2013 and Lomonosov-2013
+_oral talk, AMEE-2013 and Lomonosov-2013_
 - Moiseev E.I., Likhomanenko T.N. **A nonlocal boundary value problem for the Lavrent’ev-Bitsadze equation**. Doklady Mathematics, 2012, Vol. 86, No. 2, pp. 635–637.  
-oral talk, AMEE-2012 and Lomonosov-2012
+_oral talk, AMEE-2012 and Lomonosov-2012_
 
 </details>
 
