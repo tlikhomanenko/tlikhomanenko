@@ -152,7 +152,7 @@ _oral talk, AMEE-2012 and Lomonosov-2012_
 * Yandex School of Data Analysis, *Machine learning in High Energy Physics*, lecturer (2016)
 * Lund University, [Summer School on Machine Learning in High Energy Physics (MLHEP)](https://indico.cern.ch/event/497368/), program committee & lecturer (2016)  
 [lectures/seminars](https://github.com/yandexdataschool/mlhep-course-2016)
-* Saint Petersburg Academic University, [Summer School on Machine Learning in High Energy Physics (MLHEP)](https://www.hse.ru/mlhep2015/), organizing comittee & lecturer (2015)  
+* Saint Petersburg Academic University, [Summer School on Machine Learning in High Energy Physics (MLHEP)](https://www.hse.ru/mlhep2015/), organizing committee & lecturer (2015)  
 [lectures/seminars](https://github.com/yandexdataschool/mlhep2015)
 
 </details>
