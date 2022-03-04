@@ -54,13 +54,14 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Public Talks </summary>
 
+* [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.re-work.co/events/deep-learning-summit-2022/speakers), ReWork Deep Learning Summit, San Francisco (2022)
 * [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
 * [Pseudo-labeling for speech recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
 * [Machine learning in Science and Industry](https://arogozhnikov.github.io/2017/04/20/machine-learning-in-science-and-industry.html), Heidelberg University (2017)
-* [LHCb topological trigger optimization](https://events.yandex.ru/events/ds/17-sept-2016/), Data&Science: Large Hadron Collider, public series, Yandex (2016)
+* [LHCb topological trigger optimization](https://events.yandex.ru/events/ds/17-sept-2016/), Data&Science: Large Hadron Collider, public series, Yandex, Moscow (2016)
 * [Classifier output calibration to probability](https://indico.cern.ch/event/433556/), Heavy Flavour Data Mining workshop, Zurich University (2016)
-* [Machine Learning and Optimization of LHC Real-Time Event Stream Filter for New Physics Discoveries](https://www.youtube.com/watch?v=N42fy5OKoDE), Machine Learning: Prospects and Applications Conference, Germany (2015)
+* [Machine Learning and Optimization of LHC Real-Time Event Stream Filter for New Physics Discoveries](https://www.youtube.com/watch?v=N42fy5OKoDE), Machine Learning: Prospects and Applications Conference, Berlin (2015)
 
 </details>
 
