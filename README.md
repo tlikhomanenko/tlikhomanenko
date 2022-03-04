@@ -70,17 +70,22 @@ Gravitating to core ML and video processing.
 
 #### Core Machine Learning
 
+- Flashlight: Enabling Innovation in Tools for Machine Learning. arXiv preprint arXiv:2201.12465. 2022. (under review)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [open review](https://openreview.net/forum?id=n-FqqWXnWW), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
-- Rogozhnikov, A., Likhomanenko, T., 2017. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109.
+- Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
   
 #### Automatic Speech Recognition
+
+##### 2022
+  
+--------------------
+- Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022.
+- Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Word Order Does Not Matter For Speech Recognition**. ICASSP 2022.
 
 ##### 2021
 
 --------------------
-- Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. arXiv preprint arXiv:2111.00161. (under review ICASSP 2022)  
-- Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R., 2021. **Word Order Does Not Matter For Speech Recognition**. arXiv preprint arXiv:2110.05994. (under review ICASSP 2022)  
 - Manohar, V., Likhomanenko, T., Xu, Q., Hsu, W.N., Collobert, R., Saraf, Y., Zweig, G. and Mohamed, A., 2021. **Kaizen: Continuously improving teacher using Exponential Moving Average for semi-supervised speech recognition**. ASRU 2021.
 - Likhomanenko, T., Xu, Q., Kahn, J., Synnaeve, G. and Collobert, R. **slimIPL: Language-model-free iterative pseudo-labeling**. Interspeech 2021. <br/>
   [video](https://disk.yandex.ru/i/Z_fs6Qohup_jAw), [poster](https://disk.yandex.ru/i/DfIS20btXTHu4g), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/slimIPL)
