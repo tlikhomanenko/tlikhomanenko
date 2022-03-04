@@ -72,7 +72,7 @@ Gravitating to core ML and video processing.
 
 - Flashlight: Enabling Innovation in Tools for Machine Learning. arXiv preprint arXiv:2201.12465. 2022. (under review)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
-  [open review](https://openreview.net/forum?id=n-FqqWXnWW), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
+  [open review](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
 - Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
   
 #### Automatic Speech Recognition
