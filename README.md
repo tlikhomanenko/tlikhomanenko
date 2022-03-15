@@ -80,7 +80,8 @@ Gravitating to core ML and video processing.
 ##### 2022
   
 --------------------
-- Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022.
+- Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022. <br/>
+  [blog post](https://ai.facebook.com/blog/pseudo-labeling-speech-recognition-using-multilingual-unlabeled-data/), [code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl)
 - Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Word Order Does Not Matter For Speech Recognition**. ICASSP 2022.
 
 ##### 2021
