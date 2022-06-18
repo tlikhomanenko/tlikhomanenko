@@ -70,7 +70,7 @@ Gravitating to core ML and video processing.
 
 #### Core Machine Learning
 
-- Flashlight: Enabling Innovation in Tools for Machine Learning. arXiv preprint arXiv:2201.12465. 2022. (under review)
+- Flashlight: Enabling Innovation in Tools for Machine Learning. Spotlight ICML 2022. arXiv preprint arXiv:2201.12465. 
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [open review](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
 - Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
@@ -169,7 +169,7 @@ Gravitating to core ML and video processing.
 
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * NeurIPS 2021, 2022
-* ICLR 2021, 2022 (highlighted reviewer)
+* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers))
 * ICML 2022
 * Interspeech 2020, 2021, 2022
 * ICASSP 2021, 2022
