@@ -6,6 +6,8 @@ Gravitating to core ML and video processing.
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
+**Note: I am searching for interns for autumn 2022 and 2023 year, please [email](mailto:antares@apple.com) me directly with your resume.**
+
 <details>
   <summary> Industry and Research Experience </summary>
   
@@ -54,6 +56,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Public Talks </summary>
 
+* [Machine Learning at Apple](https://icml.cc/virtual/2022/affinity-workshop/13481), WiML@ICML, Baltimore (2022)
 * [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.re-work.co/events/deep-learning-summit-2022/speakers), ReWork Deep Learning Summit, San Francisco (2022)
 * [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
@@ -68,9 +71,12 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Selected Publications </summary>
 
-#### Core Machine Learning
+#### Machine Learning
 
-- Flashlight: Enabling Innovation in Tools for Machine Learning. Spotlight ICML 2022. arXiv preprint arXiv:2201.12465. 
+- Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
+  [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
+- Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
+  [video](https://icml.cc/virtual/2022/spotlight/17878), [presentation](https://icml.cc/media/icml-2022/Slides/17878_23lP44f.pdf), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/976abf49974d4686f87192efa0513ae0_cV7Pdsl.png), [code](https://github.com/flashlight/flashlight)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [open review](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
 - Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
