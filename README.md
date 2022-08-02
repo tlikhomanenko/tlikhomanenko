@@ -172,7 +172,6 @@ Gravitating to core ML and video processing.
 
 #### Serving as Reviewer
 
-
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * NeurIPS 2021, 2022
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers))
@@ -182,6 +181,16 @@ Gravitating to core ML and video processing.
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
+
+#### Advising
+* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, 2022
+* [Loren Lugosch](https://lorenlugosch.github.io/), summer internship, 2021 (co-advised with Ronan Collobert and Gabriel Synnaeve)
+* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advised with Ronan Collobert and Gabriel Synnaeve)
+
+#### Mentorship
+
+* LatinX in AI, CV Research workshop, CVPR 2022, New Orlean (2022)
+    
 #### Kaggle Competition ["Flavours of Physics"](https://www.kaggle.com/c/flavours-of-physics)
 
 * [research/technical support](https://storage.googleapis.com/kaggle-competitions/kaggle/4488/media/lhcb_description_official.pdf)
