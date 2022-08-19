@@ -6,7 +6,7 @@ Gravitating to core ML and video processing.
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
-**New: I am searching for interns for autumn 2022 and 2023 year, please [email](mailto:antares@apple.com) me directly with your resume. Topics: multilingual ASR, low-resource NLP/ASR, privacy federated learning in ASR, semi-supervised learning in Vision / ASR, domain transfer and generalization.**
+**New: I am searching for interns for 2023 year, please [email](mailto:antares@apple.com) me directly with your resume. Topics: multilingual ASR, low-resource NLP/ASR, privacy federated learning in ASR, semi-supervised learning in Vision / ASR, domain transfer and generalization.**
 
 <details>
   <summary> Industry and Research Experience </summary>
@@ -183,9 +183,11 @@ Gravitating to core ML and video processing.
 
 
 #### Advising
-* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, 2022
-* [Loren Lugosch](https://lorenlugosch.github.io/), summer internship, 2021 (co-advised with Ronan Collobert and Gabriel Synnaeve)
-* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advised with Ronan Collobert and Gabriel Synnaeve)
+* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple, 2022
+* [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple, 2022 (co-advising with Matthias Sperber and Hendra Setiawan)
+* [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple, 2022 (co-advising)
+* [Loren Lugosch](https://lorenlugosch.github.io/), summer internship, Facebook AI Reserch, 2021 (co-advising with Ronan Collobert and Gabriel Synnaeve)
+* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advising with Ronan Collobert and Gabriel Synnaeve)
 
 #### Mentorship
 
