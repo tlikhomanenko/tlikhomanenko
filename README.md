@@ -86,6 +86,7 @@ Gravitating to core ML and video processing.
 ##### 2022
   
 --------------------
+- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**, under review, arXiv:2210.08711, 2022.
 - Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022. <br/>
   [blog post](https://ai.facebook.com/blog/pseudo-labeling-speech-recognition-using-multilingual-unlabeled-data/), [code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl)
 - Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Word Order Does Not Matter For Speech Recognition**. ICASSP 2022.
@@ -155,6 +156,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Teaching </summary>
 
+* [DeepLearn Autumn School]([https://irdta.eu/deeplearn/2022au/speakers/](https://irdta.eu/deeplearn/2022au/blog/speakers/tatiana-likhomanenko/)), *Self-, Weakly-, Semi-Supervised Learning in Speech Recognition* (Oct 2022)
 * Heidelberg University, [Grad Days](https://gsfp.physi.uni-heidelberg.de/graddays_April_2017/index.php?m=1&s=13), *Machine learning in Science and Industry*, invited lecturer (2017)  
 [lectures](https://github.com/tlikhomanenko/MLatGradDays)
 * Imperial College London, *Introduction to Machine Learning*, TA (2016, 2017)  
@@ -173,12 +175,14 @@ Gravitating to core ML and video processing.
 #### Serving as Reviewer
 
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
+* Journal of Artificial Intelligence Research
 * NeurIPS 2021, 2022
-* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers))
+* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
 * ICML 2022
 * Interspeech 2020, 2021, 2022
-* ICASSP 2021, 2022
-* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020
+* ICASSP 2021, 2022, 2023
+* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022
+* BayLearn 2022
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
 
