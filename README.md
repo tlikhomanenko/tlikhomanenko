@@ -176,7 +176,7 @@ Gravitating to core ML and video processing.
 
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * Journal of Artificial Intelligence Research
-* NeurIPS 2021, 2022
+* NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
 * ICML 2022
 * Interspeech 2020, 2021, 2022
