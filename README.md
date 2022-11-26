@@ -1,6 +1,6 @@
 ### Dr. Tatiana Likhomanenko
 
-Research scientist and developer.  <br />
+Research scientist and software developer.  <br />
 Semi-supervised and unsupervised learning, speech recognition. <br />
 Gravitating to core ML and video processing.
 
@@ -86,7 +86,10 @@ Gravitating to core ML and video processing.
 ##### 2022
   
 --------------------
-- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**, under review, arXiv:2210.08711, 2022.
+- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. Under review, arXiv:2211.00854, 2022.
+- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. Under review, arXiv:2210.08711, 2022.
+- Likhomanenko, T., Collobert, R., Jaitly, N., Bengio, S. **Continuous Soft Pseudo-Labeling in ASR**. I Can’t Believe It’s Not Better Workshop at NeurIPS 2022. <br/>
+  [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/64612.png?t=1668713612.2996612), [presentation](https://nips.cc/virtual/2022/workshop/49960)
 - Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022. <br/>
   [blog post](https://ai.facebook.com/blog/pseudo-labeling-speech-recognition-using-multilingual-unlabeled-data/), [code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl)
 - Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Word Order Does Not Matter For Speech Recognition**. ICASSP 2022.
@@ -150,8 +153,8 @@ Gravitating to core ML and video processing.
   _oral talk, AMEE-2013 and Lomonosov-2013_
 - Moiseev E.I., Likhomanenko T.N. **A nonlocal boundary value problem for the Lavrent’ev-Bitsadze equation**. Doklady Mathematics, 2012, Vol. 86, No. 2, pp. 635–637. <br/>
   _oral talk, AMEE-2012 and Lomonosov-2012_
-
-</details>
+  </details>
+  
 
 <details>
   <summary> Teaching </summary>
