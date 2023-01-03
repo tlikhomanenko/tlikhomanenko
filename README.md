@@ -73,6 +73,7 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning
 
+- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H., 2022. Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data. arXiv preprint arXiv:2212.09982.
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
   [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
 - Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
@@ -159,7 +160,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Teaching </summary>
 
-* [DeepLearn Autumn School]([https://irdta.eu/deeplearn/2022au/speakers/](https://irdta.eu/deeplearn/2022au/blog/speakers/tatiana-likhomanenko/)), *Self-, Weakly-, Semi-Supervised Learning in Speech Recognition* (Oct 2022)
+* [DeepLearn Autumn School](https://irdta.eu/deeplearn/2022au/blog/speakers/tatiana-likhomanenko/), *Self-, Weakly-, Semi-Supervised Learning in Speech Recognition* (Oct 2022)
 * Heidelberg University, [Grad Days](https://gsfp.physi.uni-heidelberg.de/graddays_April_2017/index.php?m=1&s=13), *Machine learning in Science and Industry*, invited lecturer (2017)  
 [lectures](https://github.com/tlikhomanenko/MLatGradDays)
 * Imperial College London, *Introduction to Machine Learning*, TA (2016, 2017)  
@@ -181,7 +182,7 @@ Gravitating to core ML and video processing.
 * Journal of Artificial Intelligence Research
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
-* ICML 2022
+* ICML 2022, 2023
 * Interspeech 2020, 2021, 2022
 * ICASSP 2021, 2022, 2023
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022
