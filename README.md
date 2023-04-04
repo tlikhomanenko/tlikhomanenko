@@ -86,9 +86,10 @@ Gravitating to core ML and video processing.
 ##### 2023
   
 --------------------
-- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023.
-- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023.
-
+- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
+  [overview](https://machinelearning.apple.com/research/speakers-speaking)
+- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023. <br/>
+  [overview](https://machinelearning.apple.com/research/continuous-pseudo-labeling)
 ##### 2022
   
 --------------------
