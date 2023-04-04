@@ -71,7 +71,8 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning
 
-- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H., 2022. Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data. arXiv preprint arXiv:2212.09982.
+- Zhai, S., Likhomanenko, T., Littwin, E., Busbridge, D., Ramapuram, J., Zhang, Y., Gu, J. and Susskind, J. Stabilizing Transformer Training by Preventing Attention Entropy Collapse. 2023. arXiv preprint arXiv:2303.06296.
+- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H., 2022. Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data. Under review, arXiv preprint arXiv:2212.09982.
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
   [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
 - Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
@@ -82,11 +83,15 @@ Gravitating to core ML and video processing.
   
 #### Automatic Speech Recognition
 
+##### 2023
+  
+--------------------
+- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023.
+- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023.
+
 ##### 2022
   
 --------------------
-- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. Under review, arXiv:2211.00854, 2022.
-- Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. Under review, arXiv:2210.08711, 2022.
 - Likhomanenko, T., Collobert, R., Jaitly, N., Bengio, S. **Continuous Soft Pseudo-Labeling in ASR**. I Can’t Believe It’s Not Better Workshop at NeurIPS 2022. <br/>
   [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/64612.png?t=1668713612.2996612), [presentation](https://nips.cc/virtual/2022/workshop/49960)
 - Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022. <br/>
