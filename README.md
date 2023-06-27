@@ -54,6 +54,7 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Public Talks </summary>
 
+* [Simple and Efficient Pseudo-Labeling for Speech Recognition](https://sites.google.com/g.harvard.edu/on-device-workshop-23/schedule?authuser=0), On-Device Workshop MLSys, Miami (2023)
 * [Machine Learning at Apple](https://icml.cc/virtual/2022/affinity-workshop/13481), WiML@ICML, Baltimore (2022)
 * [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.re-work.co/events/deep-learning-summit-2022/speakers), ReWork Deep Learning Summit, San Francisco (2022)
 * [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
@@ -71,8 +72,10 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning
 
-- Zhai, S., Likhomanenko, T., Littwin, E., Busbridge, D., Ramapuram, J., Zhang, Y., Gu, J. and Susskind, J. Stabilizing Transformer Training by Preventing Attention Entropy Collapse. 2023. arXiv preprint arXiv:2303.06296.
-- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H., 2022. Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data. Under review, arXiv preprint arXiv:2212.09982.
+- Zhai, S., Likhomanenko, T., Littwin, E., Busbridge, D., Ramapuram, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
+ [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training)
+- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
+ [overview](https://machinelearning.apple.com/research/joint-speech-transcription)
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
   [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
 - Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
@@ -86,15 +89,17 @@ Gravitating to core ML and video processing.
 ##### 2023
   
 --------------------
+- Likhomanenko, T., Lugosch, L. and Collobert, R., 2023. Unsupervised ASR via Cross-Lingual Pseudo-Labeling. arXiv preprint arXiv:2305.13330. Under review.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
 - Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023. <br/>
-  [overview](https://machinelearning.apple.com/research/continuous-pseudo-labeling)
+  [overview](https://machinelearning.apple.com/research/continuous-pseudo-labeling), [video](https://iclr.cc/virtual/2023/poster/11745)
+  
 ##### 2022
   
 --------------------
 - Likhomanenko, T., Collobert, R., Jaitly, N., Bengio, S. **Continuous Soft Pseudo-Labeling in ASR**. I Can’t Believe It’s Not Better Workshop at NeurIPS 2022. <br/>
-  [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/64612.png?t=1668713612.2996612), [presentation](https://nips.cc/virtual/2022/workshop/49960)
+  [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/64612.png?t=1668713612.2996612), [video](https://nips.cc/virtual/2022/workshop/49960)
 - Lugosch, L., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Pseudo-Labeling for Massively Multilingual Speech Recognition**. ICASSP 2022. <br/>
   [blog post](https://ai.facebook.com/blog/pseudo-labeling-speech-recognition-using-multilingual-unlabeled-data/), [code](https://github.com/flashlight/wav2letter/tree/main/recipes/mling_pl)
 - Pratap, V., Xu, Q., Likhomanenko, T., Synnaeve, G. and Collobert, R. **Word Order Does Not Matter For Speech Recognition**. ICASSP 2022.
@@ -184,17 +189,30 @@ Gravitating to core ML and video processing.
 
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * Journal of Artificial Intelligence Research
-* NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee))
+* NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
+* ICLR Blogposts 2023
 * ICML 2022, 2023
-* Interspeech 2020, 2021, 2022
-* ICASSP 2021, 2022, 2023
+* Interspeech 2020, 2021, 2022, 2023
+* ICASSP 2021, 2022, 2023 (*outstanding reviewer*)
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022
+* SynS and ML Workshop ICML 2023
+* Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
+* CHIME 2023
 * BayLearn 2022
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
+#### Serving as Area Chair
+
+* NeurIPS Datasets and Benchmarks 2023
+* Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
+
+#### Organizer
+
+* 1st workshop on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/cvpr-2023/), CVPR 2023
 
 #### Advising
+
 * [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple, 2022
 * [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple, 2022 (co-advising with Matthias Sperber and Hendra Setiawan)
 * [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple, 2022 (co-advising)
