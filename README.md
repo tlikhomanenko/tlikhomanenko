@@ -72,8 +72,8 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning
 
-- Busbridge, D., Ramapuram, J., Ablin, P., Likhomanenko, T., Dhekane, E.G., Suau, X. and Webb, R., 2023. **How to Scale Your EMA**. arXiv preprint arXiv:2307.13813. Under review.
-- Zhai, S., Likhomanenko, T., Littwin, E., Busbridge, D., Ramapuram, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
+- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R., 2023. **How to Scale Your EMA**. arXiv preprint arXiv:2307.13813. Under review.
+- Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
  [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916)
 - Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
  [overview](https://machinelearning.apple.com/research/joint-speech-transcription)
@@ -111,7 +111,7 @@ Gravitating to core ML and video processing.
 - Manohar, V., Likhomanenko, T., Xu, Q., Hsu, W.N., Collobert, R., Saraf, Y., Zweig, G. and Mohamed, A., 2021. **Kaizen: Continuously improving teacher using Exponential Moving Average for semi-supervised speech recognition**. ASRU 2021.
 - Likhomanenko, T., Xu, Q., Kahn, J., Synnaeve, G. and Collobert, R. **slimIPL: Language-model-free iterative pseudo-labeling**. Interspeech 2021. <br/>
   [video](https://disk.yandex.ru/i/Z_fs6Qohup_jAw), [poster](https://disk.yandex.ru/i/DfIS20btXTHu4g), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/slimIPL)
-- Likhomanenko, T., Xu, Q., Pratap, V., Tomasello, P., Kahn, J., Avidov, G., Collobert, R. and Synnaeve, G. **Rethinking evaluation in asr: Are our models robust enough?** Interspeech 2021. <br/>
+- Likhomanenko*, T., Xu*, Q., Pratap*, V., Tomasello, P., Kahn, J., Avidov, G., Collobert, R. and Synnaeve, G. **Rethinking evaluation in asr: Are our models robust enough?** Interspeech 2021. <br/>
   [video](https://disk.yandex.ru/i/8ZKVEU86K37r5g), [poster](https://disk.yandex.ru/i/W7Qjrm0rb44eJg), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/rasr)
 - Hsu, W.N., Sriram, A., Baevski, A., Likhomanenko, T., Xu, Q., Pratap, V., Kahn, J., Lee, A., Collobert, R., Synnaeve, G. and Auli, M., 2021. **Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training**. Interspeech 2021.  
 - Xu, Q., Baevski, A., Likhomanenko, T., Tomasello, P., Conneau, A., Collobert, R., Synnaeve, G. and Auli, M., 2021, June. **Self-training and pre-training are complementary for speech recognition**. In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3030-3034). IEEE. <br/>
@@ -128,7 +128,7 @@ Gravitating to core ML and video processing.
   [video](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=337&id=997), [blog post](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/), [news](https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/)
 - Kahn, J., Rivière, M., Zheng, W., Kharitonov, E., Xu, Q., Mazaré, P.E., Karadayi, J., Liptchinsky, V., Collobert, R., Fuegen, C. and Likhomanenko, T., 2020, May. **Libri-light: A benchmark for asr with limited or no supervision**. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7669-7673). IEEE. <br/> 
   [presentation](https://sigport.org/sites/default/files/docs/Libri-Light%20-%20A%20Benchmark%20for%20ASR%20with%20Limited%20or%20No%20Supervision%20--%20ICASSP%202020.pdf), [blog post](https://ai.facebook.com/blog/a-new-open-benchmark-for-speech-recognition-with-limited-or-no-supervision/), [code](https://github.com/facebookresearch/libri-light)
-- Synnaeve, G., Xu, Q., Kahn, J., Likhomanenko, T., Grave, E., Pratap, V., Sriram, A., Liptchinsky, V. and Collobert, R. **End-to-end asr: from supervised to semi-supervised learning with modern architectures**. SAS Workshop ICML 2020. <br/>
+- Synnaeve*, G., Xu*, Q., Kahn*, J., Likhomanenko*, T., Grave*, E., Pratap, V., Sriram, A., Liptchinsky, V. and Collobert, R. **End-to-end asr: from supervised to semi-supervised learning with modern architectures**. SAS Workshop ICML 2020. <br/>
   [video](https://slideslive.com/38930740), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/sota/2019)
 
 ##### 2019
@@ -194,7 +194,7 @@ Gravitating to core ML and video processing.
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
 * ICLR Blogposts 2023
 * ICML 2022, 2023
-* Interspeech 2020, 2021, 2022, 2023
+* Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer)
 * ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/))
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022
 * SynS and ML Workshop ICML 2023
