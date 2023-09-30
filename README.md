@@ -72,7 +72,7 @@ Gravitating to core ML and video processing.
 
 #### Machine Learning
 
-- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R., 2023. **How to Scale Your EMA**. arXiv preprint arXiv:2307.13813. Under review.
+- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R., 2023. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**.
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
  [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916)
 - Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
@@ -90,6 +90,7 @@ Gravitating to core ML and video processing.
 ##### 2023
   
 --------------------
+- Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J., 2023. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**. ASRU 2023.
 - Likhomanenko, T., Lugosch, L. and Collobert, R., 2023. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**. arXiv preprint arXiv:2305.13330. Under review.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
