@@ -2,7 +2,7 @@
 
 Research scientist and software developer.  <br />
 Semi-supervised and unsupervised learning, speech recognition. <br />
-Gravitating to core ML and video processing.
+Gravitating to core ML, video processing, and private federated learning.
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
@@ -70,9 +70,13 @@ Gravitating to core ML and video processing.
 <details>
   <summary> Selected Publications </summary>
 
+#### Private Federated Learning
+- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098. Under review.
+- Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
+
 #### Machine Learning
 
-- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R., 2023. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**.
+- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**.
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
  [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916)
 - Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
@@ -90,8 +94,8 @@ Gravitating to core ML and video processing.
 ##### 2023
   
 --------------------
-- Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J., 2023. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**. ASRU 2023.
-- Likhomanenko, T., Lugosch, L. and Collobert, R., 2023. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**. arXiv preprint arXiv:2305.13330. Under review.
+- Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, 2023. arXiv preprint arXiv:2309.17395. Under review.
+- Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330. Under review.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
 - Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023. <br/>
@@ -192,12 +196,12 @@ Gravitating to core ML and video processing.
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * Journal of Artificial Intelligence Research
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023
-* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023
+* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
 * ICLR Blogposts 2023
 * ICML 2022, 2023
 * Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer)
 * ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/))
-* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022
+* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * CHIME 2023
