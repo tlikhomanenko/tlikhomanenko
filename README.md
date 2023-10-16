@@ -10,10 +10,10 @@ Gravitating to core ML, video processing, and private federated learning.
   <summary> Industry and Research Experience </summary>
   
 * [Apple](https://machinelearning.apple.com/), *Research Scientist* (Sep 2021 - present)  
-* [Facebook AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021)  
+* [Fundamental AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021)  
   *Speech recognition and natural language processing for speech*  
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
-* [Facebook AI Research](https://ai.facebook.com/), *AI Resident* (Sep 2018 - Aug 2019)  
+* [Fundamental AI Research](https://ai.facebook.com/), *AI Resident* (Sep 2018 - Aug 2019)  
   *Speech recognition and natural language processing for speech*  
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
 * [NTechLab](https://ntechlab.com/), *Machine Learning Expert* (Aug 2017 - Sep 2018)  
