@@ -72,6 +72,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Private Federated Learning
 - Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098. Under review.
+- Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR. In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023.
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
 
 #### Machine Learning
@@ -195,12 +196,12 @@ Gravitating to core ML, video processing, and private federated learning.
 
 * [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
 * Journal of Artificial Intelligence Research
-* NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023
+* NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
 * ICLR Blogposts 2023
 * ICML 2022, 2023
 * Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer)
-* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/))
+* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
