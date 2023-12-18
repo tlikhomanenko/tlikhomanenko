@@ -4,12 +4,15 @@ Research scientist and software developer.  <br />
 Semi-supervised and unsupervised learning, speech recognition. <br />
 Gravitating to core ML, video processing, and private federated learning.
 
+**New: I am searching for interns for 2024 year, please [email](mailto:antares@apple.com) me directly with your resume. Topic: speech and video generation**
+
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
 <details>
   <summary> Industry and Research Experience </summary>
   
-* [Apple](https://machinelearning.apple.com/), *Research Scientist* (Sep 2021 - present)  
+* [Apple](https://machinelearning.apple.com/), *Staff Research Scientist* (Oct 2023 - present)
+* [Apple](https://machinelearning.apple.com/), *Senior Research Scientist* (Sep 2021 - Oct 2023)  
 * [Fundamental AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021)  
   *Speech recognition and natural language processing for speech*  
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
@@ -42,6 +45,7 @@ Gravitating to core ML, video processing, and private federated learning.
 <details>
   <summary> Software </summary>
   
+* [mlx-data](https://github.com/ml-explore/mlx-data): framework agnostic data loading library brought to you by Apple machine learning research; it works with PyTorch, Jax or [MLX](https://ml-explore.github.io/mlx/)
 * [Flashlight](https://github.com/flashlight/flashlight): a fast, flexible machine learning library written entirely in C++  
 [blog post](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/)
 * [Wav2letter++](https://github.com/flashlight/wav2letter): speech recognition toolkit and recipes for papers
@@ -54,6 +58,7 @@ Gravitating to core ML, video processing, and private federated learning.
 <details>
   <summary> Public Talks </summary>
 
+* [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
 * [Simple and Efficient Pseudo-Labeling for Speech Recognition](https://sites.google.com/g.harvard.edu/on-device-workshop-23/schedule?authuser=0), On-Device Workshop MLSys, Miami (2023)
 * [Machine Learning at Apple](https://icml.cc/virtual/2022/affinity-workshop/13481), WiML@ICML, Baltimore (2022)
 * [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.re-work.co/events/deep-learning-summit-2022/speakers), ReWork Deep Learning Summit, San Francisco (2022)
@@ -71,23 +76,26 @@ Gravitating to core ML, video processing, and private federated learning.
   <summary> Selected Publications </summary>
 
 #### Private Federated Learning
+
 - Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098. Under review.
-- Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR. In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023.
+- Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
+  [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
 
 #### Machine Learning
 
-- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**.
+- Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**. <br/>
+  [overview](https://machinelearning.apple.com/research/scale-em), [video](https://neurips.cc/virtual/2023/poster/72356), [slides](https://neurips.cc/virtual/2023/poster/72356), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72356.png?t=1701269163.1180394)
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
- [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916)
+ [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916), [code](https://github.com/apple/ml-sigma-reparam)
 - Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
  [overview](https://machinelearning.apple.com/research/joint-speech-transcription)
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
-  [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
+  [overview](https://machinelearning.apple.com/research/position-prediction), [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
 - Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
   [video](https://icml.cc/virtual/2022/spotlight/17878), [presentation](https://icml.cc/media/icml-2022/Slides/17878_23lP44f.pdf), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/976abf49974d4686f87192efa0513ae0_cV7Pdsl.png), [code](https://github.com/flashlight/flashlight)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
-  [open review](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
+  [openreview](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
 - Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
   
 #### Automatic Speech Recognition
@@ -198,7 +206,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * Journal of Artificial Intelligence Research
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
-* ICLR Blogposts 2023
+* ICLR Blogposts 2023, 2024
 * ICML 2022, 2023
 * Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer)
 * ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
@@ -214,25 +222,20 @@ Gravitating to core ML, video processing, and private federated learning.
 * NeurIPS Datasets and Benchmarks 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 
+#### Mentorship
+
+* WiML, Research Mentorship, NeurIPS, New Orleans (2023)
+* LatinX in AI, Mentorship Hour (Panel), ICML, Honolulu (2023)
+* LatinX in AI, CV Research workshop, CVPR, New Orlean (2022)
+
+#### Panels
+* [Failure Modes in the Age of Foundation Models](https://neurips.cc/virtual/2023/workshop/66506), workshop "I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models", NeurIPS, New Orleans (2023)
+* Mentorship Hour, LatinX in AI, ICML, Honolulu (2023)
+
 #### Organizer
 
 * 1st workshop and challenge on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/cvpr-2023/), CVPR 2023
 
-#### Advising
-
-* [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Resident, Apple 2023-2024
-* [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple, 2023
-* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple, 2022
-* [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple, 2022 (co-advising with Matthias Sperber and Hendra Setiawan); Apple, 2023
-* [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple, 2022 (co-advising)
-* [Loren Lugosch](https://lorenlugosch.github.io/): summer internship, Apple (co-advising with Ronan Collobert), 2022; summer internship, Facebook AI Reserch, 2021 (co-advising with Ronan Collobert and Gabriel Synnaeve)
-* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advising with Ronan Collobert and Gabriel Synnaeve)
-
-#### Mentorship
-
-* LatinX in AI, Mentorship Hour (Panel), ICML 2023, Honolulu (2023)
-* LatinX in AI, CV Research workshop, CVPR 2022, New Orlean (2022)
-    
 #### Kaggle Competition ["Flavours of Physics"](https://www.kaggle.com/c/flavours-of-physics)
 
 * [research/technical support](https://storage.googleapis.com/kaggle-competitions/kaggle/4488/media/lhcb_description_official.pdf)
@@ -240,6 +243,19 @@ Gravitating to core ML, video processing, and private federated learning.
 * co-organizer of [ALEPH workshop](http://yandexdataschool.github.io/aleph2015/) at NeurIPS 2015
 * [starter-kit for competition](https://github.com/tlikhomanenko/flavours-of-physics-start)
 
+#### Advising
+
+* [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Resident, Apple 2023-2024 (co-advising with Navdeep Jaitly)
+* [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple, 2023
+* [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple, 2023 (co-advising)
+* [Chun-wei Ho](https://www.linkedin.com/in/chun-wei-ho-559248268/), summer internship, Apple, 2023 (co-advising with Navdeep Jaitly and Ronan Collobert)
+* [Sheikh Shams Azam](https://www.linkedin.com/in/sshamsazam), AI/ML Resident, Apple 2022-2023 (co-advising with Honza Silovsky)
+* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple, 2022
+* [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple, 2022 (co-advising with Matthias Sperber and Hendra Setiawan); Apple, 2023
+* [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple, 2022 (co-advising)
+* [Loren Lugosch](https://lorenlugosch.github.io/): summer internship, Facebook AI Reserch, 2021 (co-advising with Ronan Collobert and Gabriel Synnaeve); summer internship, Apple (co-advising with Ronan Collobert), 2022
+* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advising with Ronan Collobert and Gabriel Synnaeve)
+    
 </details>
 
 <details>
