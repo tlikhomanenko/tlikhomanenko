@@ -231,6 +231,7 @@ Gravitating to core ML, video processing, and private federated learning.
 #### Panels
 * [Failure Modes in the Age of Foundation Models](https://neurips.cc/virtual/2023/workshop/66506), workshop "I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models", NeurIPS, New Orleans (2023)
 * Mentorship Hour, LatinX in AI, ICML, Honolulu (2023)
+* On-Device Workshop MLSys, Miami (2023)
 
 #### Organizer
 
