@@ -206,7 +206,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
 * ICLR Blogposts 2023, 2024
 * ICML 2022, 2023
-* Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer)
+* Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer), 2024
 * ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023
 * SynS and ML Workshop ICML 2023
@@ -217,7 +217,9 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Serving as Area Chair
 
-* NeurIPS Datasets and Benchmarks 2023
+* ICML 2024
+* NeurIPS 2024
+* NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 
 #### Mentorship
