@@ -4,8 +4,6 @@ Research scientist and software developer.  <br />
 Semi-supervised and unsupervised learning, speech recognition. <br />
 Gravitating to core ML, video processing, and private federated learning.
 
-**New: I am looking for interns with hands-on experience in multimodal generative models for 2024 year, please [email](mailto:antares@apple.com) me directly with your resume.**
-
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
 <details>
