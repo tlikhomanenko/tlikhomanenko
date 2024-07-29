@@ -99,6 +99,8 @@ Gravitating to core ML, video processing, and private federated learning.
 #### Automatic Speech Recognition
 
 ##### 2024
+
+--------------------
 - Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. Under review.
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216. Under review.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
