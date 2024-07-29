@@ -75,7 +75,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Private Federated Learning
 
-- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098. Under review.
+- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098.
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
@@ -98,11 +98,16 @@ Gravitating to core ML, video processing, and private federated learning.
   
 #### Automatic Speech Recognition
 
+##### 2024
+- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. Under review.
+- Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216. Under review.
+- Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
+
 ##### 2023
   
 --------------------
 - Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, 2023. arXiv preprint arXiv:2309.17395. Under review.
-- Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330. Under review.
+- Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
 - Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023. <br/>
@@ -208,11 +213,11 @@ Gravitating to core ML, video processing, and private federated learning.
 * ICML 2022, 2023
 * Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer), 2024
 * ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
-* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023
+* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023, 2024
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
-* CHIME 2023
-* BayLearn 2022, 2023
+* CHIME 2023, 2024
+* BayLearn 2022, 2023, 2024
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
 #### Serving as Area Chair
@@ -221,6 +226,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * NeurIPS 2024
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
+* Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
 
 #### Mentorship
 
@@ -236,6 +242,7 @@ Gravitating to core ML, video processing, and private federated learning.
 #### Organizer
 
 * 1st workshop and challenge on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/cvpr-2023/), CVPR 2023
+* 2st workshop on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/eccv-24/), ECCV 2024
 
 #### Kaggle Competition ["Flavours of Physics"](https://www.kaggle.com/c/flavours-of-physics)
 
@@ -246,6 +253,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Advising
 
+* Akshita Gupta, summer internship (co-advising with Navdeep Jaitly, Richard Bai, ...), Apple, 2024
 * [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Resident, Apple 2023-2024 (co-advising with Navdeep Jaitly)
 * [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple, 2023
 * [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple, 2023 (co-advising)
