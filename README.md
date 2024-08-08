@@ -207,7 +207,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Serving as Reviewer
 
-* [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)
+* [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/) ([Expert Reviewer](https://www.jmlr.org/tmlr/expert-reviewers.html))
 * Journal of Artificial Intelligence Research
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
