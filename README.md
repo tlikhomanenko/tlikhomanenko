@@ -108,7 +108,7 @@ Gravitating to core ML, video processing, and private federated learning.
 ##### 2023
   
 --------------------
-- Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**, 2023. arXiv preprint arXiv:2309.17395. Under review.
+- Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. ECCV workshop, AVGenL: Audio-Visual Generation and Learning 2024.
 - Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
