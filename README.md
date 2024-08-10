@@ -75,6 +75,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Private Federated Learning
 
+--------------------
 - Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098.
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
@@ -82,6 +83,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Machine Learning
 
+--------------------
 - Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**. <br/>
   [overview](https://machinelearning.apple.com/research/scale-em), [video](https://neurips.cc/virtual/2023/poster/72356), [slides](https://neurips.cc/virtual/2023/poster/72356), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72356.png?t=1701269163.1180394)
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
@@ -95,8 +97,13 @@ Gravitating to core ML, video processing, and private federated learning.
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [openreview](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
 - Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
-  
-#### Automatic Speech Recognition
+
+#### NLP
+
+--------------------
+- Garg, S., Gheini, M., Emmanuel, C., Likhomanenko, T., Gao, Q. and Paulik, M. **Generating Gender Alternatives in Machine Translation.** 5th Workshop on Gender Bias in Natural Language Processing at ACL 2024.
+
+#### Speech Processing
 
 ##### 2024
 
@@ -104,13 +111,13 @@ Gravitating to core ML, video processing, and private federated learning.
 - Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. Under review.
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216. Under review.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
+- Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. AVGenL: Audio-Visual Generation and Learning Workshop at ECCV 2024.
 
 ##### 2023
   
 --------------------
-- Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. ECCV workshop, AVGenL: Audio-Visual Generation and Learning 2024.
 - Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330.
-- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?**. ICASSP 2023. <br/>
+- Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?** ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
 - Berrebbi, D., Collobert, R., Bengio, S., Jaitly, N., Likhomanenko, T. **Continuous Pseudo-Labeling from the Start**. ICLR 2023. <br/>
   [overview](https://machinelearning.apple.com/research/continuous-pseudo-labeling), [video](https://iclr.cc/virtual/2023/poster/11745), [slides](https://iclr.cc/media/iclr-2023/Slides/11745.pdf), [poster](https://iclr.cc/media/PosterPDFs/ICLR%202023/11745.png?t=1691559868.4970598)
@@ -158,6 +165,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Machine Learning in High Energy Physics
 
+--------------------
 - Derkach, D., Hushchyn, M., Likhomanenko, T., Rogozhnikov, A., Kazeev, N., Chekalina, V., Neychev, R., Kirillov, S., Ratnikov, F. and LHCb collaboration. **Machine-Learning-based global particle-identifiritcation algohms at the LHCb experiment**. Journal of Physics: Conference Series. 2018. Vol. 1085. No. 4. P. 1-5. <br/>
   _ACAT 2017_, [poster](https://indico.cern.ch/event/567550/contributions/2629676/attachments/1511360/2357050/pid_poster_v3.pdf)
 - Likhomanenko, T., Derkach, D., Rogozhnikov, A. **Inclusive Flavour Tagging Algorithm.** Journal of Physics: Conference Series, 2016. <br/>
@@ -174,6 +182,7 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Partial Differential Equations (Ph.D.)
 
+--------------------
 - Moiseev, E.I., Likhomanenko, T.N. **Eigenfunctions of the Gellerstedt problem with an inclined-type change line**. Integral Transforms and Special Functions, 2017, pp. 1–8.
 - Moiseev E. I., Likhomanenko T. N. **On the basis property of a two-part trigonometric series**. Doklady Mathematics, 2016, Vol. 94, No. 1, pp. 1–4. <br/>
   _oral talk, International scientific conference Actual Problems in Theory of Partial Differential Equations, dedicated to the centenary of Andrey V. Bitsadze, 2016_
