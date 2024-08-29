@@ -56,6 +56,7 @@ Gravitating to core ML, video processing, and private federated learning.
 <details>
   <summary> Public Talks </summary>
 
+* [Private Federated Learning for Speech Recognition](https://mlr-preview.g.apple.com/video/pfl-for-asr), [Apple Workshop on Privacy-Preserving Machine Learning](https://machinelearning.apple.com/updates/ppml-workshop-2024), Cupertino (2024)
 * [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
 * [Simple and Efficient Pseudo-Labeling for Speech Recognition](https://sites.google.com/g.harvard.edu/on-device-workshop-23/schedule?authuser=0), On-Device Workshop MLSys, Miami (2023)
 * [Machine Learning at Apple](https://icml.cc/virtual/2022/affinity-workshop/13481), WiML@ICML, Baltimore (2022)
