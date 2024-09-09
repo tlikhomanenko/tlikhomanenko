@@ -270,17 +270,18 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Advising
 
-* Akshita Gupta, summer internship (co-advising with Navdeep Jaitly, Richard Bai, ...), Apple, 2024
-* [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Resident, Apple 2023-2024 (co-advising with Navdeep Jaitly)
-* [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple, 2023
-* [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple, 2023 (co-advising)
-* [Chun-wei Ho](https://www.linkedin.com/in/chun-wei-ho-559248268/), summer internship, Apple, 2023 (co-advising with Navdeep Jaitly and Ronan Collobert)
+* [Li-Wei Chen](https://www.linkedin.com/in/li-wei-chen-142b71125/), summer internship, Apple 2024 (co-advising)
+* Akshita Gupta, summer internship, Apple 2024 (co-advising with Navdeep Jaitly, Richard Bai, Karren Yang)
+* [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Residency, Apple 2023-2024 (co-advising with Navdeep Jaitly)
+* [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple 2023
+* [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple 2023 (co-advising)
+* [Chun-wei Ho](https://www.linkedin.com/in/chun-wei-ho-559248268/), summer internship, Apple 2023 (co-advising with Navdeep Jaitly and Ronan Collobert)
 * [Sheikh Shams Azam](https://www.linkedin.com/in/sshamsazam), AI/ML Resident, Apple 2022-2023 (co-advising with Honza Silovsky)
-* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple, 2022
-* [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple, 2022 (co-advising with Matthias Sperber and Hendra Setiawan); Apple, 2023
-* [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple, 2022 (co-advising)
-* [Loren Lugosch](https://lorenlugosch.github.io/): summer internship, Facebook AI Reserch, 2021 (co-advising with Ronan Collobert and Gabriel Synnaeve); summer internship, Apple (co-advising with Ronan Collobert), 2022
-* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency 2019-2020 (co-advising with Ronan Collobert and Gabriel Synnaeve)
+* [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple 2022
+* [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple 2022 (co-advising with Matthias Sperber and Hendra Setiawan); Apple 2023 (co-advising)
+* [Colby Bunbary](https://www.colbybanbury.com/), summer internship, Apple 2022 (co-advising)
+* [Loren Lugosch](https://lorenlugosch.github.io/): summer internship, Facebook AI Reserch 2021 (co-advising with Ronan Collobert and Gabriel Synnaeve); summer internship, Apple 2022 (co-advising with Ronan Collobert)
+* [Chaitanya Talnikar](https://www.linkedin.com/in/chaitanya-talnikar-51980057), AI Residency, Facebook AI Reserch 2019-2020 (co-advising with Ronan Collobert and Gabriel Synnaeve)
     
 </details>
 
