@@ -56,6 +56,7 @@ Gravitating to core ML, video processing, and private federated learning.
 <details>
   <summary> Public Talks </summary>
 
+* Efficient Speech Processing, Johns Hopkins University, Center for Language and Speech Processing, Baltimore (2024)
 * [Private Federated Learning for Speech Recognition](https://mlr-preview.g.apple.com/video/pfl-for-asr), [Apple Workshop on Privacy-Preserving Machine Learning](https://machinelearning.apple.com/updates/ppml-workshop-2024), Cupertino (2024)
 * [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
 * [Simple and Efficient Pseudo-Labeling for Speech Recognition](https://sites.google.com/g.harvard.edu/on-device-workshop-23/schedule?authuser=0), On-Device Workshop MLSys, Miami (2023)
@@ -217,19 +218,19 @@ Gravitating to core ML, video processing, and private federated learning.
 
 #### Serving as Reviewer
 
-* [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/) ([Expert Reviewer](https://www.jmlr.org/tmlr/expert-reviewers.html))
-* Journal of Artificial Intelligence Research
+* [Transactions on Machine Learning Research (TMLR) 2021-now](https://www.jmlr.org/tmlr/) ([Expert Reviewer](https://www.jmlr.org/tmlr/expert-reviewers.html))
+* Journal of Artificial Intelligence Research 2023
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
-* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023, 2024
+* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023-2025
 * ICLR Blogposts 2023, 2024
 * ICML 2022, 2023
-* Interspeech 2020, 2021, 2022, 2023 (top-2% reviewer), 2024
-* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
-* Machine Learning and the Physical Sciences workshop NeurIPS 2019, 2020, 2022, 2023, 2024
+* Interspeech 2020-2022, 2023 ([top-2% reviewer](https://interspeech2023.org/outstanding-reviewers/)), 2024
+* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024, 2025
+* Machine Learning and the Physical Sciences workshop NeurIPS 2019-2020, 2022-2024
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * CHIME 2023, 2024
-* BayLearn 2022, 2023, 2024
+* BayLearn 2022-2024
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
 #### Serving as Area Chair
@@ -239,6 +240,10 @@ Gravitating to core ML, video processing, and private federated learning.
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
+
+#### Other
+
+* TMLR Action Editor Sep 2024 - now
 
 #### Mentorship
 
