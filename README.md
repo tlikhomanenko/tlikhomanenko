@@ -271,7 +271,7 @@ Gravitating to core ML, video processing, and private federated learning.
 #### Advising
 
 * [Li-Wei Chen](https://www.linkedin.com/in/li-wei-chen-142b71125/), summer internship, Apple 2024 (co-advising)
-* Akshita Gupta, summer internship, Apple 2024 (co-advising with Navdeep Jaitly, Richard Bai, Karren Yang)
+* [Akshita Gupta](https://akshitac8.github.io/), summer internship, Apple 2024 (co-advising with Navdeep Jaitly, Richard Bai, Karren Yang)
 * [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Residency, Apple 2023-2024 (co-advising with Navdeep Jaitly)
 * [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple 2023
 * [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple 2023 (co-advising)
