@@ -86,6 +86,8 @@ Gravitating to core ML, video processing, and private federated learning.
 #### Machine Learning
 
 --------------------
+- Ramapuram*, J., Danieli*, F., Dhekane*, E., Weers*, F., Busbridge*, D., Ablin*, P., Likhomanenko*, T., Digani, J., Gu, Z., Shidani, A. and Webb, R., 2024. **Theory, Analysis, and Best Practices for Sigmoid Self-Attention.** arXiv preprint arXiv:2409.04431. (under review). <br/>
+  [code](https://github.com/apple/ml-sigmoid-attention)
 - Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**. <br/>
   [overview](https://machinelearning.apple.com/research/scale-em), [video](https://neurips.cc/virtual/2023/poster/72356), [slides](https://neurips.cc/virtual/2023/poster/72356), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72356.png?t=1701269163.1180394)
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
@@ -108,6 +110,9 @@ Gravitating to core ML, video processing, and private federated learning.
 ##### 2024
 
 --------------------
+- Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z., 2024. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** arXiv preprint arXiv:2409.10788. (under review)
+- Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T., 2024. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank. arXiv preprint arXiv:2409.10787.** (under review)
+- Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J., 2024. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** arXiv preprint arXiv:2409.10791. (under review)
 - Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. Under review.
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216. Under review.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
