@@ -90,8 +90,6 @@ Gravitating to core ML, video processing, and private federated learning.
   [overview](https://machinelearning.apple.com/research/scale-em), [video](https://neurips.cc/virtual/2023/poster/72356), [slides](https://neurips.cc/virtual/2023/poster/72356), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72356.png?t=1701269163.1180394)
 - Zhai*, S., Likhomanenko*, T., Littwin*, E., Busbridge*, D., Ramapuram*, J., Zhang, Y., Gu, J. and Susskind, J. **Stabilizing Transformer Training by Preventing Attention Entropy Collapse.** In International Conference on Machine Learning (ICML), 2023. <br/>
  [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916), [code](https://github.com/apple/ml-sigma-reparam)
-- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
- [overview](https://machinelearning.apple.com/research/joint-speech-transcription)
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. (Spotlight) <br/>
   [overview](https://machinelearning.apple.com/research/position-prediction), [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
 - Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
@@ -118,6 +116,8 @@ Gravitating to core ML, video processing, and private federated learning.
 ##### 2023
   
 --------------------
+- Gheini, M., Likhomanenko, T., Sperber, M. and Setiawan, H. **Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data.** ACL Findings, 2023. <br/>
+ [overview](https://machinelearning.apple.com/research/joint-speech-transcription)
 - Likhomanenko, T., Lugosch, L. and Collobert, R. **Unsupervised ASR via Cross-Lingual Pseudo-Labeling**, 2023. arXiv preprint arXiv:2305.13330.
 - Berrebbi, D., Collobert, R., Jaitly, N., Likhomanenko, T. **More Speaking or More Speakers?** ICASSP 2023. <br/>
   [overview](https://machinelearning.apple.com/research/speakers-speaking)
