@@ -221,11 +221,11 @@ Gravitating to core ML, video processing, and private federated learning.
 * [Transactions on Machine Learning Research (TMLR) 2021-now](https://www.jmlr.org/tmlr/) ([Expert Reviewer](https://www.jmlr.org/tmlr/expert-reviewers.html))
 * Journal of Artificial Intelligence Research 2023
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
-* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023-2025
+* ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023-2024
 * ICLR Blogposts 2023, 2024
 * ICML 2022, 2023
 * Interspeech 2020-2022, 2023 ([top-2% reviewer](https://interspeech2023.org/outstanding-reviewers/)), 2024
-* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024, 2025
+* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019-2020, 2022-2024
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
