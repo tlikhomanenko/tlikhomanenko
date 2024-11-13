@@ -113,8 +113,8 @@ Gravitating to core ML, video processing, and private federated learning.
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z., 2024. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** arXiv preprint arXiv:2409.10788. (under review)
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T., 2024. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank. arXiv preprint arXiv:2409.10787.** (under review)
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J., 2024. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** arXiv preprint arXiv:2409.10791. (under review)
-- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. Under review.
-- Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216. Under review.
+- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. (under review)
+- Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
 - Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. AVGenL: Audio-Visual Generation and Learning Workshop at ECCV 2024.
 
@@ -230,7 +230,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * ICLR Blogposts 2023, 2024
 * ICML 2022, 2023
 * Interspeech 2020-2022, 2023 ([top-2% reviewer](https://interspeech2023.org/outstanding-reviewers/)), 2024
-* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024
+* ICASSP 2021, 2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024, 2025
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019-2020, 2022-2024
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
@@ -245,6 +245,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
+* ICASSP 2025
 
 #### Other
 
