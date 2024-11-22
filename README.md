@@ -61,7 +61,7 @@ Gravitating to core ML, video processing, and private federated learning.
 * [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
 * [Simple and Efficient Pseudo-Labeling for Speech Recognition](https://sites.google.com/g.harvard.edu/on-device-workshop-23/schedule?authuser=0), On-Device Workshop MLSys, Miami (2023)
 * [Machine Learning at Apple](https://icml.cc/virtual/2022/affinity-workshop/13481), WiML@ICML, Baltimore (2022)
-* [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.re-work.co/events/deep-learning-summit-2022/speakers), ReWork Deep Learning Summit, San Francisco (2022)
+* [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.youtube.com/watch?v=wb04M4qzbb8), ReWork Deep Learning Summit, San Francisco (2022)
 * [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
 * [Pseudo-labeling for speech recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
