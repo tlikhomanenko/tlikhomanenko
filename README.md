@@ -56,6 +56,7 @@ Gravitating to core ML, video processing, and private federated learning.
 <details>
   <summary> Public Talks </summary>
 
+* Speech generative modeling with little tokenization, MIT CSAIL, [Spoken Language Systems Group](https://sls.csail.mit.edu/), Boston (2024)
 * [Efficient Speech Processing](https://www.clsp.jhu.edu/events/tatiana-likhomanenko-apple-efficient-speech-processing/), Johns Hopkins University, Center for Language and Speech Processing, Baltimore (2024)
 * [Private Federated Learning for Speech Recognition](https://mlr-preview.g.apple.com/video/pfl-for-asr), [Apple Workshop on Privacy-Preserving Machine Learning](https://machinelearning.apple.com/updates/ppml-workshop-2024), Cupertino (2024)
 * [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
