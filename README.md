@@ -111,9 +111,9 @@ Gravitating to core ML, video processing, and private federated learning.
 ##### 2024
 
 --------------------
-- Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z., 2024. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** arXiv preprint arXiv:2409.10788. (under review)
-- Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T., 2024. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank. arXiv preprint arXiv:2409.10787.** (under review)
-- Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J., 2024. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** arXiv preprint arXiv:2409.10791. (under review)
+- Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z., 2024. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
+- Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T., 2024. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank. arXiv preprint arXiv:2409.10787.** ICASSP 2025.
+- Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J., 2024. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
 - Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. (under review)
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
