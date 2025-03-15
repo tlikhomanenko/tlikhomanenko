@@ -1,8 +1,7 @@
 ### Dr. Tatiana Likhomanenko
 
 Research scientist and software developer.  <br />
-Semi-supervised and unsupervised learning, speech recognition. <br />
-Gravitating to core ML, video processing, and private federated learning.
+Speech / video processing and generation, conversational agents, semi-supervised and unsupervised learning, private federated learning. <br />
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
