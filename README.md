@@ -111,9 +111,9 @@ Gravitating to core ML, video processing, and private federated learning.
 ##### 2025
 
 --------------------
-- Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z., 2024. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
-- Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T., 2024. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank. arXiv preprint arXiv:2409.10787.** ICASSP 2025.
-- Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J., 2024. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
+- Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
+- Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
+- Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
 
 ##### 2024
 
