@@ -55,6 +55,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 <details>
   <summary> Public Talks </summary>
 
+* [Private Federated Learning for Speech Recognition](https://icasspflute.github.io/speakers.html), FLute: Federated Learning for Audio Understanding workshop, ICASSP, Hyderabad (2025)
 * Speech generative modeling with little tokenization, MIT CSAIL, [Spoken Language Systems Group](https://sls.csail.mit.edu/), Boston (2024)
 * [Efficient Speech Processing](https://www.youtube.com/watch?v=tiIzJZd-a8Y), Johns Hopkins University, [Center for Language and Speech Processing](https://www.clsp.jhu.edu/events/tatiana-likhomanenko-apple-efficient-speech-processing/), Baltimore (2024)
 * [Private Federated Learning for Speech Recognition](https://mlr-preview.g.apple.com/video/pfl-for-asr), [Apple Workshop on Privacy-Preserving Machine Learning](https://machinelearning.apple.com/updates/ppml-workshop-2024), Cupertino (2024)
@@ -310,6 +311,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 <details>
   <summary> Honors & Awards </summary>
 
+* [2025 Breakthrough Prize in Fundamental Physics (LHCb collaboration)](https://breakthroughprize.org/Laureates/1/L3995)
 * Winner of *Accelerate your code* international competition,	Intel (2012)
 * Best student of Computer Science faculty, Lomonosov Moscow State University	(2012)
 * The winner (Regional stage) of All-Russian Programming contest (2007, 2008)
