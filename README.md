@@ -118,8 +118,10 @@ Speech / video processing and generation, conversational agents, semi-supervised
 ##### 2024
 
 --------------------
-- Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690.
-- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835.
+- Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
+  [demo](https://github.com/apple/visatronic-demo)
+- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
+  [demo](https://github.com/apple/dmel-demo)
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
 - Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. AVGenL: Audio-Visual Generation and Learning Workshop at ECCV 2024.
