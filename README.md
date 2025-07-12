@@ -254,6 +254,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * CHIME 2023, 2024
 * BayLearn 2022-2024
+* ASRU 2025
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
 
 #### Serving as Area Chair
@@ -284,6 +285,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 * 1st workshop and challenge on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/cvpr-2023/), CVPR 2023
 * 2st workshop on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/eccv-24/), ECCV 2024
+* Apple Workshop on Natural Language Understanding [2024](https://machinelearning.apple.com/updates/nlu-workshop-2024)
 
 #### Kaggle Competition ["Flavours of Physics"](https://www.kaggle.com/c/flavours-of-physics)
 
@@ -299,7 +301,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 * [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Residency, Apple 2023-2024 (co-advising with Navdeep Jaitly)
 * [Andrew Rouditchenko](http://people.csail.mit.edu/roudi/), summer internship, Apple 2023
 * [Lingxiao Zhao](http://lingxiaozhao.com/), summer internship, Apple 2023 (co-advising)
-* [Chun-wei Ho](https://www.linkedin.com/in/chun-wei-ho-559248268/), summer internship, Apple 2023 (co-advising with Navdeep Jaitly and Ronan Collobert)
+* [Chun-wei Ho](https://www.linkedin.com/in/chun-wei-ho-559248268/), summer internship, Apple 2023 (co-advising with Navdeep Jaitly and Ronan Collobert), Apple 2025 (co-advising with Masood Delfarah)
 * [Sheikh Shams Azam](https://www.linkedin.com/in/sshamsazam), AI/ML Resident, Apple 2022-2023 (co-advising with Honza Silovsky)
 * [Dan Berrebbi](https://www.linkedin.com/in/dan-berrebbi-254843169/), summer internship, Apple 2022
 * [Mozhdeh Gheini](http://www-scf.usc.edu/~gheini/), summer internship, Apple 2022 (co-advising with Matthias Sperber and Hendra Setiawan); Apple 2023 (co-advising)
