@@ -5,6 +5,8 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
+**Update: I am hiring strong ML engineers to work on speech and language modeling stack**
+
 <details>
   <summary> Industry and Research Experience </summary>
   
@@ -79,7 +81,8 @@ Speech / video processing and generation, conversational agents, semi-supervised
 #### Private Federated Learning
 
 --------------------
-- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K. and Likhomanenko*, T. **Federated Learning with Differential Privacy for End-to-End Speech Recognition,** 2023. arXiv preprint arXiv:2310.00098.
+- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping** 2025. arXiv preprint arXiv:2310.00098. <br/>
+  [overview](https://machinelearning.apple.com/research/enabling)
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
@@ -106,11 +109,22 @@ Speech / video processing and generation, conversational agents, semi-supervised
 --------------------
 - Garg, S., Gheini, M., Emmanuel, C., Likhomanenko, T., Gao, Q. and Paulik, M. **Generating Gender Alternatives in Machine Translation.** 5th Workshop on Gender Bias in Natural Language Processing at ACL 2024.
 
+#### Speech Generation
+--------------------
+- Bai, H., Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **SpeakStream: Streaming Text-to-Speech with Interleaved Data.** arXiv preprint arXiv:2505.19206.
+- Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
+  [demo](https://apple.github.io/visatronic-demo/), [demo-source](https://github.com/apple/visatronic-demo)
+- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
+  [code](https://github.com/apple/dmel), [demo](https://apple.github.io/dmel-demo/), [demo-source](https://github.com/apple/dmel-demo)
+
 #### Speech Processing
 
 ##### 2025
 
 --------------------
+
+- Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** arXiv preprint arXiv:2507.05724.
+- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** arXiv preprint arXiv:2507.02911.
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
@@ -118,10 +132,6 @@ Speech / video processing and generation, conversational agents, semi-supervised
 ##### 2024
 
 --------------------
-- Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
-  [demo](https://apple.github.io/visatronic-demo/), [demo-source](https://github.com/apple/visatronic-demo)
-- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
-  [demo](https://apple.github.io/dmel-demo/), [demo-source](https://github.com/apple/dmel-demo)
 - Gu, Z., Likhomanenko, T., Bai, H., McDermott, E., Collobert, R. and Jaitly, N., 2024. **Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition.** arXiv preprint arXiv:2405.15216.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Seto, S., Likhomanenko, T., Shum, S., Abdelaziz, A.H., Watanabe, S. and Theobald, B.J. **Can you Remove the Downstream Model for Speaker Recognition with Self-Supervised Speech Features?** Interspeech 2024.
 - Rouditchenko, A., Collobert, R. and Likhomanenko, T., AV-CPL: **Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**. AVGenL: Audio-Visual Generation and Learning Workshop at ECCV 2024.
