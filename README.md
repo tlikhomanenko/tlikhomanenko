@@ -82,7 +82,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 --------------------
 - Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping** 2025. arXiv preprint arXiv:2310.00098. <br/>
-  [overview](https://machinelearning.apple.com/research/enabling)
+  [overview](https://machinelearning.apple.com/research/enabling), [code](https://github.com/apple/ml-pfl4asr)
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
@@ -123,8 +123,8 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 --------------------
 
-- Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** arXiv preprint arXiv:2507.05724.
-- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** arXiv preprint arXiv:2507.02911.
+- Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025.
+- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025.
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
