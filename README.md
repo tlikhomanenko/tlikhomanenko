@@ -61,7 +61,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 * [Efficient Speech Generative Modeling With Little Tokenization](https://ai-summer-school.inpt.ac.ma/speakers.html), Summer School on Multimodal Foundation Models and Generative AI (MoroccoAI), Rabat (2025)
 * [Low-Latency Conversational Agent](https://sites.google.com/view/speech-ai-ttic-2025?authuser=0#h.o620n3fzfzdd), TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models, Chicago (2025)
 * [Private Federated Learning for Speech Recognition](https://icasspflute.github.io/speakers.html), FLute: Federated Learning for Audio Understanding workshop, ICASSP, Hyderabad (2025)
-* Speech generative modeling with little tokenization, MIT CSAIL, [Spoken Language Systems Group](https://sls.csail.mit.edu/), Boston (2024)
+* Speech Generative Modeling with Little Tokenization, MIT CSAIL, [Spoken Language Systems Group](https://sls.csail.mit.edu/), Boston (2024)
 * [Efficient Speech Processing](https://www.youtube.com/watch?v=tiIzJZd-a8Y), Johns Hopkins University, [Center for Language and Speech Processing](https://www.clsp.jhu.edu/events/tatiana-likhomanenko-apple-efficient-speech-processing/), Baltimore (2024)
 * [Private Federated Learning for Speech Recognition](https://mlr-preview.g.apple.com/video/pfl-for-asr), [Apple Workshop on Privacy-Preserving Machine Learning](https://machinelearning.apple.com/updates/ppml-workshop-2024), Cupertino (2024)
 * [Simple and Efficient Self-Training Approaches for Speech Recognition](https://neurips.cc/virtual/2023/workshop/66532), Third Workshop on Efficient Natural Language and Speech Processing (ENLSP-III), NeurIPS, New Orleans (2023)
@@ -70,10 +70,10 @@ Speech / video processing and generation, conversational agents, semi-supervised
 * [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://www.youtube.com/watch?v=wb04M4qzbb8), ReWork Deep Learning Summit, San Francisco (2022)
 * [Positional Embedding in Transformer-based Models](https://cs.hse.ru/data/2021/09/22/1474070341/99.pdf), Higher School of Economics (2021)
 * [slimIPL: Language-Model-Free Iterative Pseudo-Labeling](http://blog.ntrlab.com/ntr-webinar-slimipl-language-model-free-iterative-pseudo-labeling/), NTR Lab and Tomsk University (2021, in Russian)
-* [Pseudo-labeling for speech recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
-* [Machine learning in Science and Industry](https://arogozhnikov.github.io/2017/04/20/machine-learning-in-science-and-industry.html), Heidelberg University (2017)
-* [LHCb topological trigger optimization](https://events.yandex.ru/events/ds/17-sept-2016/), Data&Science: Large Hadron Collider, public series, Yandex, Moscow (2016)
-* [Classifier output calibration to probability](https://indico.cern.ch/event/433556/), Heavy Flavour Data Mining workshop, Zurich University (2016)
+* [Pseudo-Labeling for Speech Recognition](http://blog.ntrlab.com/ntr-webinar-pseudo-labeling-for-speech-recognition/), NTR Lab and Tomsk University (2021, in Russian)  
+* [Machine Learning in Science and Industry](https://arogozhnikov.github.io/2017/04/20/machine-learning-in-science-and-industry.html), Heidelberg University (2017)
+* [LHCb Topological Trigger Optimization](https://events.yandex.ru/events/ds/17-sept-2016/), Data&Science: Large Hadron Collider, public series, Yandex, Moscow (2016)
+* [Classifier Output Calibration to Probability](https://indico.cern.ch/event/433556/), Heavy Flavour Data Mining workshop, Zurich University (2016)
 * [Machine Learning and Optimization of LHC Real-Time Event Stream Filter for New Physics Discoveries](https://www.youtube.com/watch?v=N42fy5OKoDE), Machine Learning: Prospects and Applications Conference, Berlin (2015)
 
 </details>
@@ -84,7 +84,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 #### Private Federated Learning
 
 --------------------
-- Pelikan*, M., Azam, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping** 2025. arXiv preprint arXiv:2310.00098. <br/>
+- Pelikan*, M., Azam*, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping** 2025. arXiv preprint arXiv:2310.00098. <br/>
   [overview](https://machinelearning.apple.com/research/enabling), [code](https://github.com/apple/ml-pfl4asr)
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
@@ -123,7 +123,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
   [demo](https://apple.github.io/speakstream-demo/), [demo-source](https://github.com/apple/speakstream-demo)
 - Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
   [demo](https://apple.github.io/visatronic-demo/), [demo-source](https://github.com/apple/visatronic-demo)
-- Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
+- Bai*, H., Likhomanenko*, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
   [code](https://github.com/apple/dmel), [demo](https://apple.github.io/dmel-demo/), [demo-source](https://github.com/apple/dmel-demo)
 
 
