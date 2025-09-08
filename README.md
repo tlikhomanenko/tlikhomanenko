@@ -5,7 +5,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
-**Update: I am hiring strong ML engineers to work on speech and language modeling stack**
+**Update: I am hiring strong ML engineers to work on speech and language modeling stack. I am searching for interns to join in 2026 and work on speech and language.**
 
 <details>
   <summary> Industry and Research Experience </summary>
@@ -44,6 +44,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 <details>
   <summary> Software </summary>
   
+* [pfl4asr](https://github.com/apple/ml-pfl4asr): private federated learning for speech recognition
 * [mlx-data](https://github.com/ml-explore/mlx-data): framework agnostic data loading library brought to you by Apple machine learning research; it works with PyTorch, Jax or [MLX](https://ml-explore.github.io/mlx/)
 * [Flashlight](https://github.com/flashlight/flashlight): a fast, flexible machine learning library written entirely in C++  
 [blog post](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/)
@@ -57,6 +58,8 @@ Speech / video processing and generation, conversational agents, semi-supervised
 <details>
   <summary> Public Talks </summary>
 
+* [Efficient Speech Generative Modeling With Little Tokenization](https://ai-summer-school.inpt.ac.ma/speakers.html), Summer School on Multimodal Foundation Models and Generative AI (MoroccoAI), Rabat (2025)
+* [Low-Latency Conversational Agent](https://sites.google.com/view/speech-ai-ttic-2025?authuser=0#h.o620n3fzfzdd), TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models, Chicago (2025)
 * [Private Federated Learning for Speech Recognition](https://icasspflute.github.io/speakers.html), FLute: Federated Learning for Audio Understanding workshop, ICASSP, Hyderabad (2025)
 * Speech generative modeling with little tokenization, MIT CSAIL, [Spoken Language Systems Group](https://sls.csail.mit.edu/), Boston (2024)
 * [Efficient Speech Processing](https://www.youtube.com/watch?v=tiIzJZd-a8Y), Johns Hopkins University, [Center for Language and Speech Processing](https://www.clsp.jhu.edu/events/tatiana-likhomanenko-apple-efficient-speech-processing/), Baltimore (2024)
@@ -109,15 +112,20 @@ Speech / video processing and generation, conversational agents, semi-supervised
 --------------------
 - Garg, S., Gheini, M., Emmanuel, C., Likhomanenko, T., Gao, Q. and Paulik, M. **Generating Gender Alternatives in Machine Translation.** 5th Workshop on Gender Bias in Natural Language Processing at ACL 2024.
 
-#### Speech Generation
+#### Speech Processing
+
+##### Speech Generation
+
 --------------------
-- Bai, H., Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **SpeakStream: Streaming Text-to-Speech with Interleaved Data.** arXiv preprint arXiv:2505.19206.
+
+- Likhomanenko, T., Carlson, L., Bai, R.H., Gu, Z., Tran, H., Aldeneh, Z., Zhang, Y., Zhang, R., Zheng, H. and Jaitly, N. **ChipChat: Low-Latency Cascaded Conversational Agent in MLX.** ASRU (demo track) 2025.
+- Bai, H., Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **SpeakStream: Streaming Text-to-Speech with Interleaved Data.** arXiv preprint arXiv:2505.19206. <br/>
+  [demo](https://apple.github.io/speakstream-demo/), [demo-source](https://github.com/apple/speakstream-demo)
 - Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
   [demo](https://apple.github.io/visatronic-demo/), [demo-source](https://github.com/apple/visatronic-demo)
 - Bai, H., Likhomanenko, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
   [code](https://github.com/apple/dmel), [demo](https://apple.github.io/dmel-demo/), [demo-source](https://github.com/apple/dmel-demo)
 
-#### Speech Processing
 
 ##### 2025
 
@@ -272,12 +280,14 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 #### Mentorship
 
+* Career Mentorship, Interspeech, Rotterdam (2025)
 * WiML, Career Mentorship, ICML, Vancouver (2025)
 * WiML, Research Mentorship, NeurIPS, New Orleans (2023)
 * LatinX in AI, Mentorship Hour (Panel), ICML, Honolulu (2023)
 * LatinX in AI, CV Research workshop, CVPR, New Orlean (2022)
 
 #### Panels
+* [Industry panel](https://sites.google.com/view/speech-ai-ttic-2025?authuser=0#h.o620n3fzfzdd), TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models, Chicago (2025)
 * [Challenges and opportunities of federated learning for Audio Understanding](https://icasspflute.github.io/program.html), workshop "FLute: Federated Learning for Audio Understanding", ICASSP, Hyderabad (2025)
 * [Failure Modes in the Age of Foundation Models](https://neurips.cc/virtual/2023/workshop/66506), workshop "I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models", NeurIPS, New Orleans (2023)
 * Mentorship Hour, LatinX in AI, ICML, Honolulu (2023)
