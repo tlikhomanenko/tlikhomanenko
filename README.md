@@ -105,7 +105,8 @@ Speech / video processing and generation, conversational agents, semi-supervised
   [video](https://icml.cc/virtual/2022/spotlight/17878), [presentation](https://icml.cc/media/icml-2022/Slides/17878_23lP44f.pdf), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/976abf49974d4686f87192efa0513ae0_cV7Pdsl.png), [code](https://github.com/flashlight/flashlight)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [openreview](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
-- Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017.
+- Rogozhnikov, A., Likhomanenko, T. **InfiniteBoost: building infinite ensembles with gradient descent**. arXiv preprint arXiv:1706.01109. 2017. <br/>
+  [code](https://github.com/arogozhnikov/infiniteboost)
 
 #### NLP
 
@@ -132,7 +133,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 --------------------
 
 - Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025.
-- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025.
+- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025. **Oral**
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
