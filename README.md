@@ -84,7 +84,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 #### Private Federated Learning
 
 --------------------
-- Pelikan*, M., Azam*, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping** 2025. arXiv preprint arXiv:2310.00098. <br/>
+- Pelikan*, M., Azam*, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping**. Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS), 2025 <br/>
   [overview](https://machinelearning.apple.com/research/enabling), [code](https://github.com/apple/ml-pfl4asr)
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023. **Oral** <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
@@ -93,7 +93,7 @@ Speech / video processing and generation, conversational agents, semi-supervised
 #### Machine Learning
 
 --------------------
-- Ramapuram*, J., Danieli*, F., Dhekane*, E., Weers*, F., Busbridge*, D., Ablin*, P., Likhomanenko*, T., Digani, J., Gu, Z., Shidani, A. and Webb, R., 2024. **Theory, Analysis, and Best Practices for Sigmoid Self-Attention.** In International Conference on Representation Learning (ICLR), 2025. <br/>
+- Ramapuram*, J., Danieli*, F., Dhekane*, E., Weers*, F., Busbridge*, D., Ablin*, P., Likhomanenko*, T., Digani, J., Gu, Z., Shidani, A. and Webb, R. **Theory, Analysis, and Best Practices for Sigmoid Self-Attention.** In International Conference on Representation Learning (ICLR), 2025. <br/>
   [code](https://github.com/apple/ml-sigmoid-attention)
 - Busbridge*, D., Ramapuram*, J., Ablin*, P., Likhomanenko*, T., Dhekane, E.G., Suau, X. and Webb, R. **How to Scale Your EMA**. Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS), 2023. **Spotlight**. <br/>
   [overview](https://machinelearning.apple.com/research/scale-em), [video](https://neurips.cc/virtual/2023/poster/72356), [slides](https://neurips.cc/virtual/2023/poster/72356), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72356.png?t=1701269163.1180394)
