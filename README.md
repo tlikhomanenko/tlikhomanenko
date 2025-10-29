@@ -1,11 +1,11 @@
 ### Dr. Tatiana Likhomanenko
 
 Research scientist and software developer.  <br />
-Speech / video processing and generation, conversational agents, semi-supervised and unsupervised learning, private federated learning. <br />
+Speech processing and generation, conversational agents, semi-supervised and unsupervised learning, private federated learning. <br />
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
-**Update: I am hiring strong ML engineers to work on speech and language modeling stack. I am searching for interns to join in 2026 and work on speech and language.**
+**Update: I am hiring strong ML engineers to work on speech + language modeling stack. I am searching for interns to join in 2026 and work on speech language models.**
 
 <details>
   <summary> Industry and Research Experience </summary>
@@ -132,7 +132,9 @@ Speech / video processing and generation, conversational agents, semi-supervised
 
 --------------------
 
-- Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025.
+- Cuervo, S., Seto, S., de Seyssel, M., Bai, R.H., Gu, Z., Likhomanenko, T., Jaitly, N. and Aldeneh, Z. **Closing the Gap Between Text and Speech Understanding in LLMs.** arXiv preprint arXiv:2510.13632, 2025.
+- Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025. <br/>
+  [inference code & models](https://github.com/apple/ml-omni-router-moe-asr), [HF model](https://huggingface.co/collections/lelegu/speechmodels)
 - Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025. **Oral**
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
