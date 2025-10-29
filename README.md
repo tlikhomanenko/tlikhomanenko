@@ -103,7 +103,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
  [overview](https://machinelearning.apple.com/research/stabilizing-transformer-training), [video](https://icml.cc/virtual/2023/poster/24935), [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24935.png?t=1689436837.8522916), [code](https://github.com/apple/ml-sigma-reparam)
 - Zhai, S., Jaitly, N., Ramapuram, J., Busbridge, D., Likhomanenko, T., Cheng, J.Y., Talbott, W., Huang, C., Goh, H. and Susskind, J.M. **Position Prediction as an Effective Pretraining Strategy**. In International Conference on Machine Learning (ICML), 2022, pp. 26010-26027. PMLR. **Spotlight**. <br/>
   [overview](https://machinelearning.apple.com/research/position-prediction), [video](https://icml.cc/virtual/2022/spotlight/18268), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/956685427c5cd9dcb04f784272727336.png)
-- Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. (Spotlight) <br/>
+- Kahn, J.D., Pratap, V., Likhomanenko, T., Xu, Q., Hannun, A., Cai, J., Tomasello, P., Lee, A., Grave, E., Avidov, G., Steiner, B., Liptchinsky, V., Synnaeve, G., Collobert, R. **Flashlight: Enabling Innovation in Tools for Machine Learning**. In International Conference on Machine Learning (ICML), 2022, pp. 10557-10574. PMLR. **Spotlight**. <br/>
   [video](https://icml.cc/virtual/2022/spotlight/17878), [presentation](https://icml.cc/media/icml-2022/Slides/17878_23lP44f.pdf), [poster](https://icml.cc/media/PosterPDFs/ICML%202022/976abf49974d4686f87192efa0513ae0_cV7Pdsl.png), [code](https://github.com/flashlight/flashlight)
 - Likhomanenko, T., Xu, Q., Synnaeve, G., Collobert, R. and Rogozhnikov, A. **CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings**. Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021. <br/>
   [openreview](https://openreview.net/forum?id=n-FqqWXnWW), [video](https://neurips.cc/virtual/2021/poster/26588), [presentation](https://nips.cc/media/neurips-2021/Slides/26588.pdf), [code](https://github.com/gcambara/cape)
@@ -137,7 +137,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 - Cuervo, S., Seto, S., de Seyssel, M., Bai, R.H., Gu, Z., Likhomanenko, T., Jaitly, N. and Aldeneh, Z. **Closing the Gap Between Text and Speech Understanding in LLMs.** arXiv preprint arXiv:2510.13632, 2025.
 - Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025. <br/>
   [inference code & models](https://github.com/apple/ml-omni-router-moe-asr), [HF model](https://huggingface.co/collections/lelegu/speechmodels)
-- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025. **Oral**
+- Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025. **Oral.**
 - Chen, L.W., Higuchi, T., Bai, H., Abdelaziz, A.H., Rudnicky, A., Watanabe, S., Likhomanenko, T., Theobald, B.J. and Aldeneh, Z. **Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models.** ICASSP 2025.
 - Aldeneh, Z., Thilak, V., Higuchi, T., Theobald, B.J. and Likhomanenko, T. **Towards Automatic Assessment of Self-Supervised Speech Models using Rank.** ICASSP 2025.
 - Aldeneh, Z., Higuchi, T., Jung, J.W., Chen, L.W., Shum, S., Abdelaziz, A.H., Watanabe, S., Likhomanenko, T. and Theobald, B.J. **Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels.** ICASSP 2025.
@@ -198,7 +198,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 ##### 2019
 
 --------------------
-- Likhomanenko, T., Synnaeve, G. and Collobert, R., 2019. **Who Needs Words? Lexicon-Free Speech Recognition**. Proc. Interspeech 2019, pp.3915-3919. <br/>
+- Likhomanenko, T., Synnaeve, G. and Collobert, R., 2019. **Who Needs Words? Lexicon-Free Speech Recognition**. Proc. Interspeech 2019, pp.3915-3919. **Oral.** <br/>
 [presentation](https://disk.yandex.ru/i/lL8U8Q6tg4GqTQ), [blog post](https://ai.facebook.com/blog/self-supervision-and-building-more-robust-speech-recognition-systems/), [code](https://github.com/flashlight/wav2letter/tree/master/recipes/lexicon_free)
 
 #### Machine Learning in High Energy Physics
