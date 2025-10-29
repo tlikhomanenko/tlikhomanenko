@@ -277,7 +277,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
-* ICASSP 2025
+* ICASSP 2025, 2026
 
 #### Other
 
