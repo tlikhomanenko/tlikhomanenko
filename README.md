@@ -6,8 +6,9 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
 **Update! I am hiring**
-- strong ML engineers to work on speech + language modeling stack
-- interns to join in 2026 and work on speech language models
+- strong ML engineers to work on speech + language modeling stack (send me your CV)
+- interns to join in 2026 and work on speech language models (send me your CV)
+- AIML Resident 2026-2027 ([1 year program(https://machinelearning.apple.com/updates/aiml-residency-program-application-2026)) to work on spoken dialogs and speech language models, apply [here](https://jobs.apple.com/en-us/details/200630777-0836/aiml-resident-machine-learning-research-speech?team=MLAI).
 
 <details>
   <summary> Industry and Research Experience </summary>
