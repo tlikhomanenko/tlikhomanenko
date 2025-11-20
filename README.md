@@ -314,6 +314,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 #### Advising
 
+* [Santiago Cuervo](https://scholar.google.com/citations?user=ws1qbwIAAAAJ&hl=en&oi=ao), summer internship, Apple 2025 (co-advising with Zak Aldeneh)
 * [Li-Wei Chen](https://www.linkedin.com/in/li-wei-chen-142b71125/), summer internship, Apple 2024 (co-advising)
 * [Akshita Gupta](https://akshitac8.github.io/), summer internship, Apple 2024 (co-advising with Navdeep Jaitly, Richard Bai, Karren Yang)
 * [Zijin Gu](https://www.linkedin.com/in/zijin-gu-548397192/), AI/ML Residency, Apple 2023-2024 (co-advising with Navdeep Jaitly)
