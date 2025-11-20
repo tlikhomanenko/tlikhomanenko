@@ -255,7 +255,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 #### Serving as Reviewer
 
-* [Transactions on Machine Learning Research (TMLR) 2021-now](https://www.jmlr.org/tmlr/) ([Expert Reviewer](https://www.jmlr.org/tmlr/expert-reviewers.html))
+* [Transactions on Machine Learning Research (TMLR) 2021-now](https://www.jmlr.org/tmlr/) ([Expert Reviewer 2024, 2025](https://jmlr.org/tmlr/reviewers.html))
 * Journal of Artificial Intelligence Research 2023
 * NeurIPS 2021, 2022 ([top-8% reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)), 2023 ([top-8% reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee))
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023-2024
@@ -273,7 +273,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 #### Serving as Area Chair
 
-* ICML 2024, 2025
+* ICML 2024, 2025, 2026
 * NeurIPS 2024, 2025
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
