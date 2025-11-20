@@ -303,7 +303,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 * 1st workshop and challenge on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/cvpr-2023/), CVPR 2023
 * 2st workshop on [Vision-based InduStrial InspectiON](https://vision-based-industrial-inspection.github.io/eccv-24/), ECCV 2024
-* Apple Workshop on Natural Language Understanding [2024](https://machinelearning.apple.com/updates/nlu-workshop-2024)
+* Apple Workshop on Natural Language Understanding [2024](https://machinelearning.apple.com/updates/nlu-workshop-2024), [2025](https://machinelearning.apple.com/updates/nlis-workshop-2025)
 
 #### Kaggle Competition ["Flavours of Physics"](https://www.kaggle.com/c/flavours-of-physics)
 
