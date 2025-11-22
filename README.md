@@ -253,6 +253,8 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <details>
   <summary> Research Activities </summary>
 
+Member of IEEE Signal Processing Society Speech and Language Technical Committee (terms 2026-2028).
+
 #### Serving as Reviewer
 
 * [Transactions on Machine Learning Research (TMLR) 2021-now](https://www.jmlr.org/tmlr/) ([Expert Reviewer 2024, 2025](https://jmlr.org/tmlr/reviewers.html))
