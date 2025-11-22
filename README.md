@@ -253,7 +253,8 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <details>
   <summary> Research Activities </summary>
 
-Member of IEEE Signal Processing Society Speech and Language Technical Committee (terms 2026-2028).
+#### Member of 
+- IEEE Signal Processing Society Speech and Language Technical Committee (terms 2026-2028)
 
 #### Serving as Reviewer
 
