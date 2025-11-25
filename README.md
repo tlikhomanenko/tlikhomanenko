@@ -88,7 +88,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 --------------------
 - Pelikan*, M., Azam*, S.S., Feldman, V., Silovsky, J., Talwar, K., Brinton, C. G., and Likhomanenko*, T. **Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers, and Gradient Clipping**. Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS), 2025. <br/>
-  [overview](https://machinelearning.apple.com/research/enabling), [code](https://github.com/apple/ml-pfl4asr)
+  [overview](https://machinelearning.apple.com/research/enabling), [code](https://github.com/apple/ml-pfl4asr), [slides](https://neurips.cc/media/neurips-2025/Slides/119958.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/119958.png?t=1763791753.7482436), [video](https://neurips.cc/virtual/2025/loc/san-diego/poster/119958)
 - Azam*, S.S., Pelikan*, M., Feldman, V., Talwar, K., Silovsky, J. and Likhomanenko*, T. **Federated Learning for Speech Recognition: Revisiting Current Trends Towards Large-Scale ASR.** In International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS, 2023. **Oral**. <br/>
   [overview](https://machinelearning.apple.com/research/federated-learning-speech), [video](https://neurips.cc/virtual/2023/workshop/66531), [slides](https://neurips.cc/media/neurips-2023/Slides/79003.pdf), [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/79003.png?t=1701404021.11928)
 - Azam, S.S., Likhomanenko, T., Pelikan, M. and Silovsky, J. **Importance of Smoothness Induced by Optimizers in FL4ASR: Towards Understanding Federated Learning for End-to-End ASR**, ASRU 2023.
