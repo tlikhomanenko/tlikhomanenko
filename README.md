@@ -289,6 +289,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 #### Mentorship
 
+* WiML, Research Mentorship, NeurIPS, San Diego (2025)
 * Career Mentorship, Interspeech, Rotterdam (2025)
 * WiML, Career Mentorship, ICML, Vancouver (2025)
 * WiML, Research Mentorship, NeurIPS, New Orleans (2023)
