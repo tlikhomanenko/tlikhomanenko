@@ -122,7 +122,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 --------------------
 
-- Likhomanenko, T., Carlson, L., Bai, R.H., Gu, Z., Tran, H., Aldeneh, Z., Zhang, Y., Zhang, R., Zheng, H. and Jaitly, N. **ChipChat: Low-Latency Cascaded Conversational Agent in MLX.** ASRU (demo track) 2025.
+- Likhomanenko, T., Carlson, L., Bai, R.H., Gu, Z., Tran, H., Aldeneh, Z., Zhang, Y., Zhang, R., Zheng, H. and Jaitly, N. **ChipChat: Low-Latency Cascaded Conversational Agent in MLX.** ASRU (demo track) 2025. **Best demo paper award.**
 - Bai, H., Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **SpeakStream: Streaming Text-to-Speech with Interleaved Data.** arXiv preprint arXiv:2505.19206. <br/>
   [demo](https://apple.github.io/speakstream-demo/), [demo-source](https://github.com/apple/speakstream-demo)
 - Gupta, A., Likhomanenko, T., Yang, K., Bai, H., Aldeneh, Z. and Jaitly, N., 2024. **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis.** arXiv preprint arXiv:2411.17690. <br/>
