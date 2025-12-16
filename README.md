@@ -61,6 +61,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <details>
   <summary> Public Talks </summary>
 
+* [Low-Latency Conversational Agent](https://www.youtube.com/watch?v=cEjzACOfJ2s) ([slides](https://poonehmousavi.github.io/assets/slides/Low-latency-conversational-agent-likhomanenko-mila.pdf)), [Conversational AI Reading Group at Mila](https://poonehmousavi.github.io/rg), online (2025)
 * [Efficient Speech Generative Modeling With Little Tokenization](https://ai-summer-school.inpt.ac.ma/speakers.html), Summer School on Multimodal Foundation Models and Generative AI (MoroccoAI), Rabat (2025)
 * [Low-Latency Conversational Agent](https://sites.google.com/view/speech-ai-ttic-2025?authuser=0#h.o620n3fzfzdd), TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models, Chicago (2025)
 * [Private Federated Learning for Speech Recognition](https://icasspflute.github.io/speakers.html), FLute: Federated Learning for Audio Understanding workshop, ICASSP, Hyderabad (2025)
