@@ -354,5 +354,6 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 * Winner of *Accelerate your code* international competition,	Intel (2012)
 * Best student of Computer Science faculty, Lomonosov Moscow State University	(2012)
 * The winner (Regional stage) of All-Russian Programming contest (2007, 2008)
+* The winner (Regional stage) of All-Russian Math contest (2007)
 
 </details>
