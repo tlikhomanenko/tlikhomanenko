@@ -8,7 +8,6 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 **Update! I am hiring**
 - strong ML engineers to work on speech + language modeling stack (send me your CV)
 - interns to join in 2026 and work on speech language models (send your CV to mlr-speech-internship@group.apple.com)
-- AIML Resident 2026-2027 ([1 year program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026)) to work on spoken dialogs and speech language models, apply [here](https://jobs.apple.com/en-us/details/200630777-0836/aiml-resident-machine-learning-research-speech?team=MLAI).
 
 <details>
   <summary> Industry and Research Experience </summary>
@@ -350,6 +349,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <details>
   <summary> Honors & Awards </summary>
 
+* ASRU best demo paper award (2025)
 * [2025 Breakthrough Prize in Fundamental Physics (LHCb collaboration)](https://breakthroughprize.org/Laureates/1/L3995)
 * Winner of *Accelerate your code* international competition,	Intel (2012)
 * Best student of Computer Science faculty, Lomonosov Moscow State University	(2012)
