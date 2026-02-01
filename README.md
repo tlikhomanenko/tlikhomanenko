@@ -135,7 +135,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 --------------------
 
-- Cuervo, S., Seto, S., de Seyssel, M., Bai, R.H., Gu, Z., Likhomanenko, T., Jaitly, N. and Aldeneh, Z. **Closing the Gap Between Text and Speech Understanding in LLMs.** arXiv preprint arXiv:2510.13632, 2025.
+- Cuervo, S., Seto, S., de Seyssel, M., Bai, R.H., Gu, Z., Likhomanenko, T., Jaitly, N. and Aldeneh, Z. **Closing the Gap Between Text and Speech Understanding in LLMs.** ICLR 2026.
 - Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition.** ASRU 2025. <br/>
   [inference code & models](https://github.com/apple/ml-omni-router-moe-asr), [HF model](https://huggingface.co/collections/lelegu/speechmodels)
 - Chi, HG., Aldeneh, Z., Likhomanenko, T., Rudovic, O., Higuchi, T., Chen, LW., Watanabe, S., Abdelaziz, AH. 2025. **DiceHuBERT: Distilling HuBERT with a Self-Supervised Learning Objective.** Interspeech 2025. **Oral.**
@@ -264,12 +264,12 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 * ICLR 2021, 2022 ([highlighted reviewer](https://iclr.cc/Conferences/2022/Reviewers)), 2023-2024
 * ICLR Blogposts 2023, 2024
 * ICML 2022-2023
-* Interspeech 2020-2022, 2023 ([top-2% reviewer](https://interspeech2023.org/outstanding-reviewers/)), 2024-2025
+* Interspeech 2020-2022, 2023 ([top-2% reviewer](https://interspeech2023.org/outstanding-reviewers/)), 2024-2026
 * ICASSP 2021-2022, 2023 ([outstanding reviewer](https://2023.ieeeicassp.org/outstanding-reviewer-recognitions/)), 2024-2025
 * Machine Learning and the Physical Sciences workshop NeurIPS 2019-2020, 2022-2024
 * SynS and ML Workshop ICML 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
-* CHIME 2023, 2024
+* CHIME 2023-2024, 2026
 * BayLearn 2022-2024
 * ASRU 2025
 * An advisor in the LHCb statistics and machine learning working group (2016-2017)
