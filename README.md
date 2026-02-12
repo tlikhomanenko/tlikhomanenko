@@ -7,7 +7,6 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 **Update! I am hiring**
 - strong ML engineers to work on speech + language modeling stack (send me your CV)
-- interns to join in 2026 and work on speech language models (send your CV to mlr-speech-internship@group.apple.com)
 
 <details>
   <summary> Industry and Research Experience </summary>
