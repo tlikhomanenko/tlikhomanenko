@@ -1,4 +1,4 @@
-=### Dr. Tatiana Likhomanenko
+### Dr. Tatiana Likhomanenko
 
 Research scientist and software developer.  <br />
 Speech processing and generation, conversational agents, semi-supervised and unsupervised learning, private federated learning. <br />
