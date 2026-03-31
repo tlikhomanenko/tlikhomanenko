@@ -8,17 +8,19 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 <details>
   <summary> Industry and Research Experience </summary>
   
-* [Apple](https://machinelearning.apple.com/), *Staff Research Scientist* (Oct 2023 - present)
+* [Apple](https://machinelearning.apple.com/), *Staff Research Scientist* (Oct 2023 - present) <br/>
+  *Speech, language, core ML, private federated learning, generative modeling.* <br/>
+  *Managing and leading several interns, AI residents, junior RS, MLE and SWE*
 * [Apple](https://machinelearning.apple.com/), *Senior Research Scientist* (Sep 2021 - Oct 2023)  
-* [Fundamental AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021)  
-  *Speech recognition and natural language processing for speech*  
+* [Fundamental AI Research](https://ai.facebook.com/), *Postdoctoral Researcher* (Aug 2019 - Aug 2021) <br/>
+  *Speech recognition and natural language processing for speech* <br/>
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
-* [Fundamental AI Research](https://ai.facebook.com/), *AI Resident* (Sep 2018 - Aug 2019)  
-  *Speech recognition and natural language processing for speech*  
+* [Fundamental AI Research](https://ai.facebook.com/), *AI Resident* (Sep 2018 - Aug 2019) <br/> 
+  *Speech recognition and natural language processing for speech* <br/>
   **Advisors**: [Ronan Collobert](https://ronan.collobert.com/), [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en)
-* [NTechLab](https://ntechlab.com/), *Machine Learning Expert* (Aug 2017 - Sep 2018)  
+* [NTechLab](https://ntechlab.com/), *Machine Learning Expert* (Aug 2017 - Sep 2018) <br/>
   *Face recognition and facial attributes predictions with deep learning at top-1 face recognition team*  
-* [Yandex](https://yandex.com/) & [CERN](https://home.cern/), *Researcher* (Apr 2013 - May 2017)  
+* [Yandex](https://yandex.com/) & [CERN](https://home.cern/), *Researcher* (Apr 2013 - May 2017) <br/>
   *Machine learning for High Energy Physics studies at the Large Hadron Collider: particle identification system, trigger system (online identification which collisions worth being stored), specific rare decays search (high-level data analysis), and B mesons oscillations (main subject of the LHCb studies)*
 * Membership at Large Hadron Collider beauty (LHCb) collaboration, CERN (2013 - 2018)
 
@@ -250,7 +252,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
   <summary> Research Activities </summary>
 
 #### Member of 
-- IEEE Signal Processing Society Speech and Language Technical Committee (terms 2026-2028)
+- [IEEE Signal Processing Society Speech and Language Technical Committee](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing/members) (terms 2026-2028)
 
 #### Serving as Reviewer
 
@@ -273,7 +275,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 #### Serving as Area Chair
 
 * ICML 2024-2026
-* NeurIPS 2024, 2025
+* NeurIPS 2024-2026
 * NeurIPS Datasets and Benchmarks 2023, 2024
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
