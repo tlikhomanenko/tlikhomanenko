@@ -5,9 +5,6 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 <a href="https://github.com/tlikhomanenko" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=x7Z3ysQAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-blue.svg?&style=for-the-badge&logoColor=white" /></a>
 
-**Update! I am hiring**
-- strong ML engineers to work on speech + language modeling stack (send me your CV)
-
 <details>
   <summary> Industry and Research Experience </summary>
   
