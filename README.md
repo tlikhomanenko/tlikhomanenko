@@ -112,6 +112,7 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 #### NLP
 
 --------------------
+- Gu, Z., Likhomanenko, T., Thilak, V., Ramapuram, J. and Jaitly, N., 2026. Path-Constrained Mixture-of-Experts. arXiv preprint arXiv:2603.18297.
 - Garg, S., Gheini, M., Emmanuel, C., Likhomanenko, T., Gao, Q. and Paulik, M. **Generating Gender Alternatives in Machine Translation.** 5th Workshop on Gender Bias in Natural Language Processing at ACL 2024.
 
 #### Speech Processing
@@ -120,6 +121,8 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 
 --------------------
 
+- Ramapuram, J., Dhekane, E.G., Shidani, A., Busbridge, D., Mazoure, B., Gu, Z., Webb, R., Likhomanenko, T. and Jaitly, N. Scaling Properties of Continuous Diffusion Spoken Language Models. Interspeech, 2026. <br/>
+  [demo](https://apple.github.io/ml-diffuslm/), [demo-source](https://github.com/apple/ml-diffuslm)
 - Likhomanenko, T., Carlson, L., Bai, R.H., Gu, Z., Tran, H., Aldeneh, Z., Zhang, Y., Zhang, R., Zheng, H. and Jaitly, N. **ChipChat: Low-Latency Cascaded Conversational Agent in MLX.** ASRU (demo track) 2025. **Best demo paper award.**
 - Bai, H., Gu, Z., Likhomanenko, T., and Jaitly, N., 2025. **SpeakStream: Streaming Text-to-Speech with Interleaved Data.** arXiv preprint arXiv:2505.19206. <br/>
   [demo](https://apple.github.io/speakstream-demo/), [demo-source](https://github.com/apple/speakstream-demo)
@@ -128,6 +131,11 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 - Bai*, H., Likhomanenko*, T., Zhang, R., Gu, Z., Aldeneh, Z. and Jaitly, N., 2024. **dMel: Speech Tokenization made Simple.** arXiv preprint arXiv:2407.15835. <br/>
   [code](https://github.com/apple/dmel), [demo](https://apple.github.io/dmel-demo/), [demo-source](https://github.com/apple/dmel-demo)
 
+##### 2026
+
+--------------------
+
+- Aldeneh, Z., Seto, S., de Seyssel, M., Chi, J., Gu, Z., Higuchi, T., Jung, J.W., Watanabe, S., Grangier, D., Theobald, B.J. and Likhomanenko, T. Which Data Matter? Embedding-Based Data Selection for Speech Recognition. Interspeech 2026.
 
 ##### 2025
 
@@ -275,11 +283,11 @@ Speech processing and generation, conversational agents, semi-supervised and uns
 #### Serving as Area Chair
 
 * ICML 2024-2026
-* NeurIPS 2024-2026
-* NeurIPS Datasets and Benchmarks 2023, 2024
+* NeurIPS 2024-2025
+* NeurIPS Datasets and Benchmarks 2023, 2024,2026
 * Vision-based InduStrial InspectiON (VISION) Workshop CVPR 2023
 * Vision-based InduStrial InspectiON (VISION) Workshop ECCV 2024
-* ICASSP 2025, 2026
+* ICASSP 2025-2026
 
 #### Other
 
